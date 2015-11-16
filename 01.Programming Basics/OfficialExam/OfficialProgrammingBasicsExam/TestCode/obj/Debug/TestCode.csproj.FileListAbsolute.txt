@@ -1,0 +1,6 @@
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\TestCode\bin\Debug\TestCode.exe.config
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\TestCode\bin\Debug\TestCode.exe
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\TestCode\bin\Debug\TestCode.pdb
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\TestCode\obj\Debug\TestCode.csprojResolveAssemblyReference.cache
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\TestCode\obj\Debug\TestCode.exe
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\TestCode\obj\Debug\TestCode.pdb

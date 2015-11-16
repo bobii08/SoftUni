@@ -1,0 +1,32 @@
+1. Java
+Java is top pick as one of the most popular programming languages, used for 
+building server-side applications to video games and mobile apps. It's also 
+the core foundation for developing Android apps, making it a favorite of many 
+programmers. Java is the most similar language to C#. The Object-oriented 
+programming in C# is almost the same as the OOP in Java. One difference 
+between the two programming languages is that in C# classes and methods are
+written in PascalCase and in Java in camelCase.
+
+2. C++
+C++ is a general-purpose programming language. It has imperative, object-oriented
+and generic programming features, while also providing facilities for low-level 
+memory manipulation. C# is pretty similar to C++.
+
+3.PHP
+PHP is a server-side scripting language designed for web development, but also 
+used as a general-purpose programming language. C# is object-orriented programming 
+language and PHP is not.
+
+4.JavaScript
+JavaScript is a high level, dynamic, untyped, and interpreted 
+programming language. Alongside HTML and CSS, it is one of the three essential 
+technologies of World Wide Web content production; the majority of websites 
+employ it and it is supported by all modern web browsers without plug-ins. 
+JavaScript is a lot different compared to C#.
+
+5.Python - Python is a widely used general-purpose, high-level programming 
+language. Its design philosophy emphasizes code readability, and 
+its syntax allows programmers to express concepts in fewer lines of code than 
+would be possible in languages such as C++, or Java. The language 
+provides constructs intended to enable clear programs on both a small and large 
+scale. Python is not similar to C#.

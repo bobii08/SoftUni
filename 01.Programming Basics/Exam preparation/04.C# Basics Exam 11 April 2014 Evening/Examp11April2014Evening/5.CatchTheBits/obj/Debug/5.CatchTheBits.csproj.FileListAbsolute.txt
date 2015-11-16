@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\04.C# Basics Exam 11 April 2014 Evening\Examp11April2014Evening\5.CatchTheBits\bin\Debug\5.CatchTheBits.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\04.C# Basics Exam 11 April 2014 Evening\Examp11April2014Evening\5.CatchTheBits\bin\Debug\5.CatchTheBits.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\04.C# Basics Exam 11 April 2014 Evening\Examp11April2014Evening\5.CatchTheBits\bin\Debug\5.CatchTheBits.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\04.C# Basics Exam 11 April 2014 Evening\Examp11April2014Evening\5.CatchTheBits\obj\Debug\5.CatchTheBits.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\04.C# Basics Exam 11 April 2014 Evening\Examp11April2014Evening\5.CatchTheBits\obj\Debug\5.CatchTheBits.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\04.C# Basics Exam 11 April 2014 Evening\Examp11April2014Evening\5.CatchTheBits\obj\Debug\5.CatchTheBits.pdb

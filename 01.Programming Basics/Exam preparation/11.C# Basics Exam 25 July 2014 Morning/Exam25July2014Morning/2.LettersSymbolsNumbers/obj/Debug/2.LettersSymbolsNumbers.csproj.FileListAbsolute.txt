@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\2.LettersSymbolsNumbers\bin\Debug\2.LettersSymbolsNumbers.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\2.LettersSymbolsNumbers\bin\Debug\2.LettersSymbolsNumbers.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\2.LettersSymbolsNumbers\bin\Debug\2.LettersSymbolsNumbers.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\2.LettersSymbolsNumbers\obj\Debug\2.LettersSymbolsNumbers.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\2.LettersSymbolsNumbers\obj\Debug\2.LettersSymbolsNumbers.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\2.LettersSymbolsNumbers\obj\Debug\2.LettersSymbolsNumbers.csprojResolveAssemblyReference.cache

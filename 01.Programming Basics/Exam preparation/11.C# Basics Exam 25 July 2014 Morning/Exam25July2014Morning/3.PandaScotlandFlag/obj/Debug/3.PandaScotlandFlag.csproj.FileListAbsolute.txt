@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\3.PandaScotlandFlag\bin\Debug\3.PandaScotlandFlag.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\3.PandaScotlandFlag\bin\Debug\3.PandaScotlandFlag.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\3.PandaScotlandFlag\bin\Debug\3.PandaScotlandFlag.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\3.PandaScotlandFlag\obj\Debug\3.PandaScotlandFlag.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\3.PandaScotlandFlag\obj\Debug\3.PandaScotlandFlag.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\3.PandaScotlandFlag\obj\Debug\3.PandaScotlandFlag.pdb

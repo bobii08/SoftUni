@@ -1,0 +1,5 @@
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.exe.config
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.exe
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.pdb
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.exe
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.pdb

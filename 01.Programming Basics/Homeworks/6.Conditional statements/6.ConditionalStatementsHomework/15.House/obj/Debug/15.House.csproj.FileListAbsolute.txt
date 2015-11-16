@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\15.House\bin\Debug\15.House.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\15.House\bin\Debug\15.House.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\15.House\bin\Debug\15.House.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\15.House\obj\Debug\15.House.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\15.House\obj\Debug\15.House.pdb

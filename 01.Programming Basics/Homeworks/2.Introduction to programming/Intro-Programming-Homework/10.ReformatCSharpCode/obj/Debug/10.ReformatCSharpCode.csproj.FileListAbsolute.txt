@@ -1,0 +1,5 @@
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe.config
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.pdb
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.exe
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.pdb

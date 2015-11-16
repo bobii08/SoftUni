@@ -1,0 +1,5 @@
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\05.PrintMyName\bin\Debug\05.PrintMyName.exe.config
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\05.PrintMyName\bin\Debug\05.PrintMyName.exe
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\05.PrintMyName\bin\Debug\05.PrintMyName.pdb
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\05.PrintMyName\obj\Debug\05.PrintMyName.exe
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\05.PrintMyName\obj\Debug\05.PrintMyName.pdb

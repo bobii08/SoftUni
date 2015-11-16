@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\4.ChessQueens\bin\Debug\4.ChessQueens.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\4.ChessQueens\bin\Debug\4.ChessQueens.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\4.ChessQueens\bin\Debug\4.ChessQueens.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\4.ChessQueens\obj\Debug\4.ChessQueens.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\4.ChessQueens\obj\Debug\4.ChessQueens.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\4.ChessQueens\obj\Debug\4.ChessQueens.pdb

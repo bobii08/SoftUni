@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\02.NumbersNotDivisibleBy3And7\bin\Debug\02.NumbersNotDivisibleBy3And7.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\02.NumbersNotDivisibleBy3And7\bin\Debug\02.NumbersNotDivisibleBy3And7.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\02.NumbersNotDivisibleBy3And7\bin\Debug\02.NumbersNotDivisibleBy3And7.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\02.NumbersNotDivisibleBy3And7\obj\Debug\02.NumbersNotDivisibleBy3And7.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\02.NumbersNotDivisibleBy3And7\obj\Debug\02.NumbersNotDivisibleBy3And7.pdb

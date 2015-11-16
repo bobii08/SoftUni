@@ -1,0 +1,37 @@
+1. Code::Blocks - an extensible and fully configurable IDE designed to support 
+its users most demanding needs, supports C, C++ and Fortran. It provides a 
+consistent look, feel and operation across all platforms for seamless transitions 
+between work spaces, and it’s built around a plug-in framework, providing a 
+multitude of options for extension. It’s open-source and offers cross-platform 
+functionality with no hidden costs.
+
+2. Eclipse - Many development frameworks are built on Eclipse, a free, open-source
+editor that was initially a Java environment but a variety of plug-ins have 
+extended its capabilities considerably. The Eclipse Standard 4.3.2 version, for
+instance, includes the Eclipse Platform along with the tools required to debug 
+it, plus Java and Plugin Development Tooling and Git and CVS support. If your
+requirements are different, you can choose from a variety of Eclipse Package 
+Solutions, including tools for Java developers, Scout Developers, RCP and RAP 
+Developers and more.
+
+3.NetBeans - An intuitive, drag-and-drop interface with project templates, binary
+and static libraries, and many useful functions to make your life simpler,
+NetBeans is a popular IDE for C and C++ projects. It also supports Fortan and
+Assembler files, with GNU Debugger Integration and code assistance, NetBeans
+is a functional IDE for editing existing projects, building on templates or
+building from scratch on most leading platforms. There are also multiple NetBeans
+Enterprise IDE Download Bundles with options that support several additional
+technologies, including Java, PHP, HTML5 and more.
+
+4. Komodo IDE - Komodo is a comprehensive IDE that supports all major programming 
+languages, providing a single tool that meets your development needs across the 
+spectrum. Whether you’re working with Python, PHP, Ruby, Perl, HTML, CSS or 
+JavaScript, Komodo provides a clean, intuitive interface with advanced editing 
+capabilities and integrated tools for the most functionality.
+
+5.Aptana Studio 3 - Aptana, recently acquired by Appcelerator, offers one of 
+the most powerful open-source IDEs: Aptana Studo 3. It’s been completely 
+re-built to provide a faster and seamless environment for developing and 
+testing an entire web application using a single environment. Aptana Studio 
+3 supports all the major browser technology specs, eliminating compatibility and 
+testing challenges to speed your time to deployment.  

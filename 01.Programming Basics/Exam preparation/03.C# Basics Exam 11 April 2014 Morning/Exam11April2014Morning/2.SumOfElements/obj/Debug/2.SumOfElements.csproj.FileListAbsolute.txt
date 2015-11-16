@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\2.SumOfElements\bin\Debug\2.SumOfElements.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\2.SumOfElements\bin\Debug\2.SumOfElements.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\2.SumOfElements\bin\Debug\2.SumOfElements.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\2.SumOfElements\obj\Debug\2.SumOfElements.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\2.SumOfElements\obj\Debug\2.SumOfElements.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\2.SumOfElements\obj\Debug\2.SumOfElements.pdb

@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\08.LongestWordInAText\bin\Debug\08.LongestWordInAText.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\08.LongestWordInAText\bin\Debug\08.LongestWordInAText.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\08.LongestWordInAText\bin\Debug\08.LongestWordInAText.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\08.LongestWordInAText\obj\Debug\08.LongestWordInAText.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\08.LongestWordInAText\obj\Debug\08.LongestWordInAText.pdb

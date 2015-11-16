@@ -1,0 +1,5 @@
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\4.FirefightingOrganization\bin\Debug\4.FirefightingOrganization.exe.config
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\4.FirefightingOrganization\bin\Debug\4.FirefightingOrganization.exe
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\4.FirefightingOrganization\bin\Debug\4.FirefightingOrganization.pdb
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\4.FirefightingOrganization\obj\Debug\4.FirefightingOrganization.exe
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\4.FirefightingOrganization\obj\Debug\4.FirefightingOrganization.pdb

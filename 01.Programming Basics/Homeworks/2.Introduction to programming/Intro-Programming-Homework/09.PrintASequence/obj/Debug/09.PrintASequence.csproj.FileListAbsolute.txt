@@ -1,0 +1,5 @@
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\09.PrintASequence\bin\Debug\09.PrintASequence.exe.config
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\09.PrintASequence\bin\Debug\09.PrintASequence.exe
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\09.PrintASequence\bin\Debug\09.PrintASequence.pdb
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\09.PrintASequence\obj\Debug\09.PrintASequence.exe
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\09.PrintASequence\obj\Debug\09.PrintASequence.pdb

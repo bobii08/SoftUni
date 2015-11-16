@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.pdb

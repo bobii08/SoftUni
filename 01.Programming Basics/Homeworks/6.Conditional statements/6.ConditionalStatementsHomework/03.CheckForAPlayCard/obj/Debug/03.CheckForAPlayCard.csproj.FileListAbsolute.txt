@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\03.CheckForAPlayCard\bin\Debug\03.CheckForAPlayCard.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\03.CheckForAPlayCard\bin\Debug\03.CheckForAPlayCard.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\03.CheckForAPlayCard\bin\Debug\03.CheckForAPlayCard.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\03.CheckForAPlayCard\obj\Debug\03.CheckForAPlayCard.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\03.CheckForAPlayCard\obj\Debug\03.CheckForAPlayCard.pdb

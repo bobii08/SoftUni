@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\03.LongestAreaOfArray\bin\Debug\03.LongestAreaOfArray.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\03.LongestAreaOfArray\bin\Debug\03.LongestAreaOfArray.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\03.LongestAreaOfArray\bin\Debug\03.LongestAreaOfArray.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\03.LongestAreaOfArray\obj\Debug\03.LongestAreaOfArray.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\03.LongestAreaOfArray\obj\Debug\03.LongestAreaOfArray.pdb

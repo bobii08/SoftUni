@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\07.C# Basics Exam 14 April 2014 Morning\Exam14April2014Morning\2.BiggestTriple\bin\Debug\2.BiggestTriple.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\07.C# Basics Exam 14 April 2014 Morning\Exam14April2014Morning\2.BiggestTriple\bin\Debug\2.BiggestTriple.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\07.C# Basics Exam 14 April 2014 Morning\Exam14April2014Morning\2.BiggestTriple\bin\Debug\2.BiggestTriple.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\07.C# Basics Exam 14 April 2014 Morning\Exam14April2014Morning\2.BiggestTriple\obj\Debug\2.BiggestTriple.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\07.C# Basics Exam 14 April 2014 Morning\Exam14April2014Morning\2.BiggestTriple\obj\Debug\2.BiggestTriple.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\07.C# Basics Exam 14 April 2014 Morning\Exam14April2014Morning\2.BiggestTriple\obj\Debug\2.BiggestTriple.pdb

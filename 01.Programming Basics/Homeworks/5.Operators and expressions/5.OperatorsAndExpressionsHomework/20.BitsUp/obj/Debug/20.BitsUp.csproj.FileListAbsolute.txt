@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\20.BitsUp\bin\Debug\20.BitsUp.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\20.BitsUp\bin\Debug\20.BitsUp.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\20.BitsUp\bin\Debug\20.BitsUp.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\20.BitsUp\obj\Debug\20.BitsUp.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\20.BitsUp\obj\Debug\20.BitsUp.pdb

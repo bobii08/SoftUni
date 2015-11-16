@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\3.DrawFigure\bin\Debug\3.DrawFigure.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\3.DrawFigure\bin\Debug\3.DrawFigure.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\3.DrawFigure\bin\Debug\3.DrawFigure.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\3.DrawFigure\obj\Debug\3.DrawFigure.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\3.DrawFigure\obj\Debug\3.DrawFigure.pdb

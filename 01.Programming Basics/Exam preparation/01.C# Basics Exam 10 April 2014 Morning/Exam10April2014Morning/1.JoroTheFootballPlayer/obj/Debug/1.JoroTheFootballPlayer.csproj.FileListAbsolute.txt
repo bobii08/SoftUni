@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\01.C# Basics Exam 10 April 2014 Morning\Exam10April2014Morning\1.JoroTheFootballPlayer\bin\Debug\1.JoroTheFootballPlayer.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\01.C# Basics Exam 10 April 2014 Morning\Exam10April2014Morning\1.JoroTheFootballPlayer\bin\Debug\1.JoroTheFootballPlayer.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\01.C# Basics Exam 10 April 2014 Morning\Exam10April2014Morning\1.JoroTheFootballPlayer\bin\Debug\1.JoroTheFootballPlayer.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\01.C# Basics Exam 10 April 2014 Morning\Exam10April2014Morning\1.JoroTheFootballPlayer\obj\Debug\1.JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\01.C# Basics Exam 10 April 2014 Morning\Exam10April2014Morning\1.JoroTheFootballPlayer\obj\Debug\1.JoroTheFootballPlayer.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\01.C# Basics Exam 10 April 2014 Morning\Exam10April2014Morning\1.JoroTheFootballPlayer\obj\Debug\1.JoroTheFootballPlayer.pdb

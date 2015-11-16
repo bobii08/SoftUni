@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Exam 28 April 2014\Exam28April2014\3.Disk\bin\Debug\3.Disk.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Exam 28 April 2014\Exam28April2014\3.Disk\bin\Debug\3.Disk.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Exam 28 April 2014\Exam28April2014\3.Disk\bin\Debug\3.Disk.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Exam 28 April 2014\Exam28April2014\3.Disk\obj\Debug\3.Disk.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Exam 28 April 2014\Exam28April2014\3.Disk\obj\Debug\3.Disk.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Exam 28 April 2014\Exam28April2014\3.Disk\obj\Debug\3.Disk.pdb

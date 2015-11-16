@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Exam 28 April 2014\Exam28April2014\1.FitBoxInBox\bin\Debug\1.FitBoxInBox.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Exam 28 April 2014\Exam28April2014\1.FitBoxInBox\bin\Debug\1.FitBoxInBox.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Exam 28 April 2014\Exam28April2014\1.FitBoxInBox\bin\Debug\1.FitBoxInBox.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Exam 28 April 2014\Exam28April2014\1.FitBoxInBox\obj\Debug\1.FitBoxInBox.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Exam 28 April 2014\Exam28April2014\1.FitBoxInBox\obj\Debug\1.FitBoxInBox.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Exam 28 April 2014\Exam28April2014\1.FitBoxInBox\obj\Debug\1.FitBoxInBox.pdb

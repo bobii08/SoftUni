@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.X-Bits", "5.X-Bits\5.X-Bits.csproj", "{13CE819B-8FB8-480C-AE24-F85E350E760B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.WinningNumbers", "4.WinningNumbers\4.WinningNumbers.csproj", "{0D7E144E-C153-4231-AF34-870548196C5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.JumpingSums", "2.JumpingSums\2.JumpingSums.csproj", "{349B8C80-186D-491F-BC63-7E648B6E6D2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13CE819B-8FB8-480C-AE24-F85E350E760B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CE819B-8FB8-480C-AE24-F85E350E760B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CE819B-8FB8-480C-AE24-F85E350E760B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CE819B-8FB8-480C-AE24-F85E350E760B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D7E144E-C153-4231-AF34-870548196C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D7E144E-C153-4231-AF34-870548196C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D7E144E-C153-4231-AF34-870548196C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D7E144E-C153-4231-AF34-870548196C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{349B8C80-186D-491F-BC63-7E648B6E6D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{349B8C80-186D-491F-BC63-7E648B6E6D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{349B8C80-186D-491F-BC63-7E648B6E6D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349B8C80-186D-491F-BC63-7E648B6E6D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

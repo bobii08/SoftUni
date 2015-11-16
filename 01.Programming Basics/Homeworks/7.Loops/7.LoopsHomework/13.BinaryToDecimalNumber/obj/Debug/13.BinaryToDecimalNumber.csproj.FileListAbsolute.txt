@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\13.BinaryToDecimalNumber\obj\Debug\13.BinaryToDecimalNumber.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\13.BinaryToDecimalNumber\obj\Debug\13.BinaryToDecimalNumber.pdb

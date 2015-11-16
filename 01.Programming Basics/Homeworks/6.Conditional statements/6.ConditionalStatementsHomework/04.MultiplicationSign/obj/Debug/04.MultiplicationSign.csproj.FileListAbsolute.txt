@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb

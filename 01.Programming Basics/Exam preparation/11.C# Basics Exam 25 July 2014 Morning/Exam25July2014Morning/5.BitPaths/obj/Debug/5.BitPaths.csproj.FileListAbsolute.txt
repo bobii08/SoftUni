@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\5.BitPaths\bin\Debug\5.BitPaths.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\5.BitPaths\bin\Debug\5.BitPaths.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\5.BitPaths\bin\Debug\5.BitPaths.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\5.BitPaths\obj\Debug\5.BitPaths.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\5.BitPaths\obj\Debug\5.BitPaths.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\5.BitPaths\obj\Debug\5.BitPaths.pdb

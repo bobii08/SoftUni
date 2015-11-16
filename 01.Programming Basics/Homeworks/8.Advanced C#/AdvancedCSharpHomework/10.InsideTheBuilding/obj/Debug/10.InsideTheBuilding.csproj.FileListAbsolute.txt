@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\10.InsideTheBuilding\bin\Debug\10.InsideTheBuilding.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\10.InsideTheBuilding\bin\Debug\10.InsideTheBuilding.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\10.InsideTheBuilding\bin\Debug\10.InsideTheBuilding.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\10.InsideTheBuilding\obj\Debug\10.InsideTheBuilding.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\10.InsideTheBuilding\obj\Debug\10.InsideTheBuilding.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\10.InsideTheBuilding\obj\Debug\10.InsideTheBuilding.pdb

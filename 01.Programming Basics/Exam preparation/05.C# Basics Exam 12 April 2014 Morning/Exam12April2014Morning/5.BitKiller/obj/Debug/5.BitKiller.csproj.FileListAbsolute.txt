@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\05.C# Basics Exam 12 April 2014 Morning\Exam12April2014Morning\5.BitKiller\bin\Debug\5.BitKiller.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\05.C# Basics Exam 12 April 2014 Morning\Exam12April2014Morning\5.BitKiller\bin\Debug\5.BitKiller.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\05.C# Basics Exam 12 April 2014 Morning\Exam12April2014Morning\5.BitKiller\bin\Debug\5.BitKiller.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\05.C# Basics Exam 12 April 2014 Morning\Exam12April2014Morning\5.BitKiller\obj\Debug\5.BitKiller.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\05.C# Basics Exam 12 April 2014 Morning\Exam12April2014Morning\5.BitKiller\obj\Debug\5.BitKiller.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\05.C# Basics Exam 12 April 2014 Morning\Exam12April2014Morning\5.BitKiller\obj\Debug\5.BitKiller.pdb

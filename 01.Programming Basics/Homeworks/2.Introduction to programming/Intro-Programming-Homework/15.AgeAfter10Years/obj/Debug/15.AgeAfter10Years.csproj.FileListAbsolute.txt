@@ -1,0 +1,8 @@
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\15.AgeAfter10Years\bin\Debug\15.AgeAfter10Years.exe.config
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\15.AgeAfter10Years\bin\Debug\15.AgeAfter10Years.exe
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\15.AgeAfter10Years\bin\Debug\15.AgeAfter10Years.pdb
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\15.AgeAfter10Years\obj\Debug\15.AgeAfter10Years.exe
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\15.AgeAfter10Years\obj\Debug\15.AgeAfter10Years.pdb
+D:\Softuni Rules\Programming Basics\Homeworks\2.Introduction to programming\Intro-Programming-Homework\15.AgeAfter10Years\bin\Debug\15.AgeAfter10Years.exe.config
+D:\Softuni Rules\Programming Basics\Homeworks\2.Introduction to programming\Intro-Programming-Homework\15.AgeAfter10Years\obj\Debug\15.AgeAfter10Years.exe
+D:\Softuni Rules\Programming Basics\Homeworks\2.Introduction to programming\Intro-Programming-Homework\15.AgeAfter10Years\obj\Debug\15.AgeAfter10Years.pdb

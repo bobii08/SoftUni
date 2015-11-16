@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\24.BitRoller\bin\Debug\24.BitRoller.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\24.BitRoller\bin\Debug\24.BitRoller.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\24.BitRoller\bin\Debug\24.BitRoller.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\24.BitRoller\obj\Debug\24.BitRoller.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\24.BitRoller\obj\Debug\24.BitRoller.pdb

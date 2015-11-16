@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\09.PlayWithIntDoubleAndString\bin\Debug\09.PlayWithIntDoubleAndString.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\09.PlayWithIntDoubleAndString\bin\Debug\09.PlayWithIntDoubleAndString.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\09.PlayWithIntDoubleAndString\bin\Debug\09.PlayWithIntDoubleAndString.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\09.PlayWithIntDoubleAndString\obj\Debug\09.PlayWithIntDoubleAndString.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\09.PlayWithIntDoubleAndString\obj\Debug\09.PlayWithIntDoubleAndString.pdb

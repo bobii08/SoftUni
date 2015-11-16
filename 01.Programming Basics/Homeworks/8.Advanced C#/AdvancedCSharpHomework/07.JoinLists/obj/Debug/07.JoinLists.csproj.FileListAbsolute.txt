@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\07.JoinLists\bin\Debug\07.JoinLists.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\07.JoinLists\bin\Debug\07.JoinLists.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\07.JoinLists\bin\Debug\07.JoinLists.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\07.JoinLists\obj\Debug\07.JoinLists.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\07.JoinLists\obj\Debug\07.JoinLists.pdb

@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\14.BitFlipper\bin\Debug\14.BitFlipper.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\14.BitFlipper\bin\Debug\14.BitFlipper.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\14.BitFlipper\bin\Debug\14.BitFlipper.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\14.BitFlipper\obj\Debug\14.BitFlipper.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\14.BitFlipper\obj\Debug\14.BitFlipper.pdb

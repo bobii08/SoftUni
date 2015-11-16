@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\22.Arrow\bin\Debug\22.Arrow.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\22.Arrow\bin\Debug\22.Arrow.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\22.Arrow\bin\Debug\22.Arrow.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\22.Arrow\obj\Debug\22.Arrow.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\22.Arrow\obj\Debug\22.Arrow.pdb

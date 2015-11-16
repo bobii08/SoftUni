@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.csprojResolveAssemblyReference.cache

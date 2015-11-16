@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\5.ChangeEvenBits\bin\Debug\5.ChangeEvenBits.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\5.ChangeEvenBits\bin\Debug\5.ChangeEvenBits.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\5.ChangeEvenBits\bin\Debug\5.ChangeEvenBits.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\5.ChangeEvenBits\obj\Debug\5.ChangeEvenBits.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\5.ChangeEvenBits\obj\Debug\5.ChangeEvenBits.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\5.ChangeEvenBits\obj\Debug\5.ChangeEvenBits.pdb

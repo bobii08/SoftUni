@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\3.TheExplorer\bin\Debug\3.TheExplorer.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\3.TheExplorer\bin\Debug\3.TheExplorer.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\3.TheExplorer\bin\Debug\3.TheExplorer.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\3.TheExplorer\obj\Debug\3.TheExplorer.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\3.TheExplorer\obj\Debug\3.TheExplorer.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\3.TheExplorer\obj\Debug\3.TheExplorer.pdb

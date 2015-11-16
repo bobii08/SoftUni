@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\01.C# Basics Exam 10 April 2014 Morning\Exam10April2014Morning\2.HalfSum\bin\Debug\2.HalfSum.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\01.C# Basics Exam 10 April 2014 Morning\Exam10April2014Morning\2.HalfSum\bin\Debug\2.HalfSum.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\01.C# Basics Exam 10 April 2014 Morning\Exam10April2014Morning\2.HalfSum\bin\Debug\2.HalfSum.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\01.C# Basics Exam 10 April 2014 Morning\Exam10April2014Morning\2.HalfSum\obj\Debug\2.HalfSum.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\01.C# Basics Exam 10 April 2014 Morning\Exam10April2014Morning\2.HalfSum\obj\Debug\2.HalfSum.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\01.C# Basics Exam 10 April 2014 Morning\Exam10April2014Morning\2.HalfSum\obj\Debug\2.HalfSum.pdb

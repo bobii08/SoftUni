@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.GameOfBits", "5.GameOfBits\5.GameOfBits.csproj", "{C2F1B4B8-3186-4D0B-9C6C-8254BB6E4B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeStuff", "PracticeStuff\PracticeStuff.csproj", "{73C9DA53-468C-43A8-B397-E62A4A45AA62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2F1B4B8-3186-4D0B-9C6C-8254BB6E4B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F1B4B8-3186-4D0B-9C6C-8254BB6E4B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F1B4B8-3186-4D0B-9C6C-8254BB6E4B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F1B4B8-3186-4D0B-9C6C-8254BB6E4B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73C9DA53-468C-43A8-B397-E62A4A45AA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C9DA53-468C-43A8-B397-E62A4A45AA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C9DA53-468C-43A8-B397-E62A4A45AA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C9DA53-468C-43A8-B397-E62A4A45AA62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

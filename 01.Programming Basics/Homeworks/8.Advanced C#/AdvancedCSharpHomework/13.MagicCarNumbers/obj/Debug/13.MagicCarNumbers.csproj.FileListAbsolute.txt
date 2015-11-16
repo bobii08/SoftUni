@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\13.MagicCarNumbers\bin\Debug\13.MagicCarNumbers.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\13.MagicCarNumbers\bin\Debug\13.MagicCarNumbers.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\13.MagicCarNumbers\bin\Debug\13.MagicCarNumbers.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\13.MagicCarNumbers\obj\Debug\13.MagicCarNumbers.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\13.MagicCarNumbers\obj\Debug\13.MagicCarNumbers.pdb

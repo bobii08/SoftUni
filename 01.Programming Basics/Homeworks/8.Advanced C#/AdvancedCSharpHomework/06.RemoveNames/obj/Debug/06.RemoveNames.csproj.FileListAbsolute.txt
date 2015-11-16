@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\06.RemoveNames\bin\Debug\06.RemoveNames.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\06.RemoveNames\bin\Debug\06.RemoveNames.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\06.RemoveNames\bin\Debug\06.RemoveNames.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\06.RemoveNames\obj\Debug\06.RemoveNames.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\06.RemoveNames\obj\Debug\06.RemoveNames.pdb

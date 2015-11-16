@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

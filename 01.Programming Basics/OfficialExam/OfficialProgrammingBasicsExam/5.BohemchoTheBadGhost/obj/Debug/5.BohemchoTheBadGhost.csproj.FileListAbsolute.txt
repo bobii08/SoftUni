@@ -1,0 +1,6 @@
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\5.BohemchoTheBadGhost\bin\Debug\5.BohemchoTheBadGhost.exe.config
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\5.BohemchoTheBadGhost\bin\Debug\5.BohemchoTheBadGhost.exe
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\5.BohemchoTheBadGhost\bin\Debug\5.BohemchoTheBadGhost.pdb
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\5.BohemchoTheBadGhost\obj\Debug\5.BohemchoTheBadGhost.exe
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\5.BohemchoTheBadGhost\obj\Debug\5.BohemchoTheBadGhost.pdb
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\5.BohemchoTheBadGhost\obj\Debug\5.BohemchoTheBadGhost.csprojResolveAssemblyReference.cache

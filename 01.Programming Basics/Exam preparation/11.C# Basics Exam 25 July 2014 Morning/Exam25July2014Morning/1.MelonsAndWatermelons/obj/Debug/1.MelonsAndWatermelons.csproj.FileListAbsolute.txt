@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\1.MelonsAndWatermelons\bin\Debug\1.MelonsAndWatermelons.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\1.MelonsAndWatermelons\bin\Debug\1.MelonsAndWatermelons.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\1.MelonsAndWatermelons\bin\Debug\1.MelonsAndWatermelons.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\1.MelonsAndWatermelons\obj\Debug\1.MelonsAndWatermelons.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\1.MelonsAndWatermelons\obj\Debug\1.MelonsAndWatermelons.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\1.MelonsAndWatermelons\obj\Debug\1.MelonsAndWatermelons.pdb

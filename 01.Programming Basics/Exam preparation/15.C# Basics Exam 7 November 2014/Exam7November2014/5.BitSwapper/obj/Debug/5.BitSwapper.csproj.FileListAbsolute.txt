@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\15.C# Basics Exam 7 November 2014\Exam7November2014\5.BitSwapper\bin\Debug\5.BitSwapper.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\15.C# Basics Exam 7 November 2014\Exam7November2014\5.BitSwapper\obj\Debug\5.BitSwapper.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\15.C# Basics Exam 7 November 2014\Exam7November2014\5.BitSwapper\bin\Debug\5.BitSwapper.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\15.C# Basics Exam 7 November 2014\Exam7November2014\5.BitSwapper\bin\Debug\5.BitSwapper.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\15.C# Basics Exam 7 November 2014\Exam7November2014\5.BitSwapper\obj\Debug\5.BitSwapper.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\15.C# Basics Exam 7 November 2014\Exam7November2014\5.BitSwapper\obj\Debug\5.BitSwapper.pdb

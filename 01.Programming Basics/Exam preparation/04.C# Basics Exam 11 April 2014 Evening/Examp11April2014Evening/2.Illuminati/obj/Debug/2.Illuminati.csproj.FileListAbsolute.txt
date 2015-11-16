@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\04.C# Basics Exam 11 April 2014 Evening\Examp11April2014Evening\2.Illuminati\bin\Debug\2.Illuminati.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\04.C# Basics Exam 11 April 2014 Evening\Examp11April2014Evening\2.Illuminati\bin\Debug\2.Illuminati.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\04.C# Basics Exam 11 April 2014 Evening\Examp11April2014Evening\2.Illuminati\bin\Debug\2.Illuminati.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\04.C# Basics Exam 11 April 2014 Evening\Examp11April2014Evening\2.Illuminati\obj\Debug\2.Illuminati.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\04.C# Basics Exam 11 April 2014 Evening\Examp11April2014Evening\2.Illuminati\obj\Debug\2.Illuminati.pdb

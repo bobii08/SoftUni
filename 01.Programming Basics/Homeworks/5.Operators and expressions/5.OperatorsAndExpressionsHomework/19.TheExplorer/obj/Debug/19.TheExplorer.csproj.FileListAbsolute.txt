@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\19.TheExplorer\bin\Debug\19.TheExplorer.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\19.TheExplorer\bin\Debug\19.TheExplorer.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\19.TheExplorer\bin\Debug\19.TheExplorer.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\19.TheExplorer\obj\Debug\19.TheExplorer.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\19.TheExplorer\obj\Debug\19.TheExplorer.pdb

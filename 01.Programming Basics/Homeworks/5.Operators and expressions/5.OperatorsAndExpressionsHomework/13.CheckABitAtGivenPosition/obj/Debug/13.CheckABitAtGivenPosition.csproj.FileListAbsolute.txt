@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.pdb

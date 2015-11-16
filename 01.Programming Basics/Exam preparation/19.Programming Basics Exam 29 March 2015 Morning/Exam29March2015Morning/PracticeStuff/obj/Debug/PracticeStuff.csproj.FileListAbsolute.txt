@@ -1,0 +1,5 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\19.Programming Basics Exam 29 March 2015 Morning\Exam29March2015Morning\PracticeStuff\bin\Debug\PracticeStuff.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\19.Programming Basics Exam 29 March 2015 Morning\Exam29March2015Morning\PracticeStuff\bin\Debug\PracticeStuff.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\19.Programming Basics Exam 29 March 2015 Morning\Exam29March2015Morning\PracticeStuff\bin\Debug\PracticeStuff.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\19.Programming Basics Exam 29 March 2015 Morning\Exam29March2015Morning\PracticeStuff\obj\Debug\PracticeStuff.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\19.Programming Basics Exam 29 March 2015 Morning\Exam29March2015Morning\PracticeStuff\obj\Debug\PracticeStuff.pdb

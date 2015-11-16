@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\4.NakovsMatching\bin\Debug\4.NakovsMatching.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\4.NakovsMatching\bin\Debug\4.NakovsMatching.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\4.NakovsMatching\bin\Debug\4.NakovsMatching.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\4.NakovsMatching\obj\Debug\4.NakovsMatching.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\4.NakovsMatching\obj\Debug\4.NakovsMatching.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\4.NakovsMatching\obj\Debug\4.NakovsMatching.pdb

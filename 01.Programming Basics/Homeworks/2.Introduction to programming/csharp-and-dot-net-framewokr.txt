@@ -1,0 +1,2 @@
+.NET Framework is a mixture of programming languages (C#, F#, Visual Basic),
+compiler, class libraries, CLR etc. C# is the programming language itself.

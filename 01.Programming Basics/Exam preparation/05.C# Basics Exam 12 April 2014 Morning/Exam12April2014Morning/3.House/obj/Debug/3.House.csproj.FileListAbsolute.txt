@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\05.C# Basics Exam 12 April 2014 Morning\Exam12April2014Morning\3.House\bin\Debug\3.House.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\05.C# Basics Exam 12 April 2014 Morning\Exam12April2014Morning\3.House\bin\Debug\3.House.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\05.C# Basics Exam 12 April 2014 Morning\Exam12April2014Morning\3.House\bin\Debug\3.House.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\05.C# Basics Exam 12 April 2014 Morning\Exam12April2014Morning\3.House\obj\Debug\3.House.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\05.C# Basics Exam 12 April 2014 Morning\Exam12April2014Morning\3.House\obj\Debug\3.House.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\05.C# Basics Exam 12 April 2014 Morning\Exam12April2014Morning\3.House\obj\Debug\3.House.csprojResolveAssemblyReference.cache

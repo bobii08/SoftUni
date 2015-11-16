@@ -1,0 +1,6 @@
+D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\09.ExchangeVarialbeValues\bin\Debug\09.ExchangeVarialbeValues.exe.config
+D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\09.ExchangeVarialbeValues\bin\Debug\09.ExchangeVarialbeValues.exe
+D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\09.ExchangeVarialbeValues\bin\Debug\09.ExchangeVarialbeValues.pdb
+D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\09.ExchangeVarialbeValues\obj\Debug\09.ExchangeVarialbeValues.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\09.ExchangeVarialbeValues\obj\Debug\09.ExchangeVarialbeValues.exe
+D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\09.ExchangeVarialbeValues\obj\Debug\09.ExchangeVarialbeValues.pdb

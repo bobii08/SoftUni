@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\11.StudentCables\bin\Debug\11.StudentCables.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\11.StudentCables\bin\Debug\11.StudentCables.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\11.StudentCables\bin\Debug\11.StudentCables.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\11.StudentCables\obj\Debug\11.StudentCables.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\11.StudentCables\obj\Debug\11.StudentCables.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\11.StudentCables\obj\Debug\11.StudentCables.pdb

@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\18.TrailingZerosInNFactorial\bin\Debug\18.TrailingZerosInNFactorial.exe.config
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\18.TrailingZerosInNFactorial\bin\Debug\18.TrailingZerosInNFactorial.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\18.TrailingZerosInNFactorial\bin\Debug\18.TrailingZerosInNFactorial.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\18.TrailingZerosInNFactorial\obj\Debug\18.TrailingZerosInNFactorial.exe
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\18.TrailingZerosInNFactorial\obj\Debug\18.TrailingZerosInNFactorial.pdb
+D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\18.TrailingZerosInNFactorial\obj\Debug\18.TrailingZerosInNFactorial.csprojResolveAssemblyReference.cache

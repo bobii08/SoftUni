@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.KnightPath", "5.KnightPath\5.KnightPath.csproj", "{82D9CD56-C6DE-40AD-9CBE-95DEF66E36CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82D9CD56-C6DE-40AD-9CBE-95DEF66E36CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D9CD56-C6DE-40AD-9CBE-95DEF66E36CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D9CD56-C6DE-40AD-9CBE-95DEF66E36CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D9CD56-C6DE-40AD-9CBE-95DEF66E36CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

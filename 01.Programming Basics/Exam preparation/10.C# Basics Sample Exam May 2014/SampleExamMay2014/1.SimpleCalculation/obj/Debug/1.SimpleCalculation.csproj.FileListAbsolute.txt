@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\1.SimpleCalculation\bin\Debug\1.SimpleCalculation.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\1.SimpleCalculation\bin\Debug\1.SimpleCalculation.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\1.SimpleCalculation\bin\Debug\1.SimpleCalculation.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\1.SimpleCalculation\obj\Debug\1.SimpleCalculation.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\1.SimpleCalculation\obj\Debug\1.SimpleCalculation.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\1.SimpleCalculation\obj\Debug\1.SimpleCalculation.pdb

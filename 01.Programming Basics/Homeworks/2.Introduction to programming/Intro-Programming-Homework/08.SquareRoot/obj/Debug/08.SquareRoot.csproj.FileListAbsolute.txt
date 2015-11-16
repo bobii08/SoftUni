@@ -1,0 +1,5 @@
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\08.SquareRoot\bin\Debug\08.SquareRoot.exe.config
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\08.SquareRoot\bin\Debug\08.SquareRoot.exe
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\08.SquareRoot\bin\Debug\08.SquareRoot.pdb
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\08.SquareRoot\obj\Debug\08.SquareRoot.exe
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\08.SquareRoot\obj\Debug\08.SquareRoot.pdb

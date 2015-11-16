@@ -1,0 +1,6 @@
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\1.TheBetterMusicProducer\bin\Debug\1.TheBetterMusicProducer.exe.config
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\1.TheBetterMusicProducer\bin\Debug\1.TheBetterMusicProducer.exe
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\1.TheBetterMusicProducer\bin\Debug\1.TheBetterMusicProducer.pdb
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\1.TheBetterMusicProducer\obj\Debug\1.TheBetterMusicProducer.csprojResolveAssemblyReference.cache
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\1.TheBetterMusicProducer\obj\Debug\1.TheBetterMusicProducer.exe
+C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\1.TheBetterMusicProducer\obj\Debug\1.TheBetterMusicProducer.pdb

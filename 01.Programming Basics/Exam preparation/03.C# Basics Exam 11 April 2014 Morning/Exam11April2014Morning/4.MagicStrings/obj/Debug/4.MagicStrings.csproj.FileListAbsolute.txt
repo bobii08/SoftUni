@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\4.MagicStrings\bin\Debug\4.MagicStrings.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\4.MagicStrings\bin\Debug\4.MagicStrings.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\4.MagicStrings\bin\Debug\4.MagicStrings.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\4.MagicStrings\obj\Debug\4.MagicStrings.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\4.MagicStrings\obj\Debug\4.MagicStrings.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\4.MagicStrings\obj\Debug\4.MagicStrings.pdb

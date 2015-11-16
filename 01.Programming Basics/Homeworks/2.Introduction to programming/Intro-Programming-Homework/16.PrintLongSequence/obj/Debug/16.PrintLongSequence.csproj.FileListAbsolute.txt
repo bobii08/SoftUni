@@ -1,0 +1,9 @@
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.pdb
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.csprojResolveAssemblyReference.cache
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
+C:\Users\lyubo\Desktop\Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb
+D:\Softuni Rules\Programming Basics\Homeworks\2.Introduction to programming\Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config
+D:\Softuni Rules\Programming Basics\Homeworks\2.Introduction to programming\Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
+D:\Softuni Rules\Programming Basics\Homeworks\2.Introduction to programming\Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb

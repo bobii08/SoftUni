@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\19.Programming Basics Exam 29 March 2015 Morning\Exam29March2015Morning\5.GameOfBits\bin\Debug\5.GameOfBits.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\19.Programming Basics Exam 29 March 2015 Morning\Exam29March2015Morning\5.GameOfBits\bin\Debug\5.GameOfBits.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\19.Programming Basics Exam 29 March 2015 Morning\Exam29March2015Morning\5.GameOfBits\bin\Debug\5.GameOfBits.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\19.Programming Basics Exam 29 March 2015 Morning\Exam29March2015Morning\5.GameOfBits\obj\Debug\5.GameOfBits.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\19.Programming Basics Exam 29 March 2015 Morning\Exam29March2015Morning\5.GameOfBits\obj\Debug\5.GameOfBits.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\19.Programming Basics Exam 29 March 2015 Morning\Exam29March2015Morning\5.GameOfBits\obj\Debug\5.GameOfBits.pdb

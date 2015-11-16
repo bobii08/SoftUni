@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\4.NestedLoops\bin\Debug\4.NestedLoops.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\4.NestedLoops\bin\Debug\4.NestedLoops.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\4.NestedLoops\bin\Debug\4.NestedLoops.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\4.NestedLoops\obj\Debug\4.NestedLoops.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\4.NestedLoops\obj\Debug\4.NestedLoops.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\4.NestedLoops\obj\Debug\4.NestedLoops.pdb

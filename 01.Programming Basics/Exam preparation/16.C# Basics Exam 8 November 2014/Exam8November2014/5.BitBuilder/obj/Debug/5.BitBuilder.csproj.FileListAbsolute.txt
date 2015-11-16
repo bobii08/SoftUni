@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\16.C# Basics Exam 8 November 2014\Exam8November2014\5.BitBuilder\bin\Debug\5.BitBuilder.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\16.C# Basics Exam 8 November 2014\Exam8November2014\5.BitBuilder\bin\Debug\5.BitBuilder.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\16.C# Basics Exam 8 November 2014\Exam8November2014\5.BitBuilder\bin\Debug\5.BitBuilder.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\16.C# Basics Exam 8 November 2014\Exam8November2014\5.BitBuilder\obj\Debug\5.BitBuilder.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\16.C# Basics Exam 8 November 2014\Exam8November2014\5.BitBuilder\obj\Debug\5.BitBuilder.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\16.C# Basics Exam 8 November 2014\Exam8November2014\5.BitBuilder\obj\Debug\5.BitBuilder.pdb

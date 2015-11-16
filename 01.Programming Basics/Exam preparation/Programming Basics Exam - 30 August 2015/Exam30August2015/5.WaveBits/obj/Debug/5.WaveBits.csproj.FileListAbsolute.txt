@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\Programming Basics Exam - 30 August 2015\Exam30August2015\5.WaveBits\bin\Debug\5.WaveBits.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\Programming Basics Exam - 30 August 2015\Exam30August2015\5.WaveBits\bin\Debug\5.WaveBits.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\Programming Basics Exam - 30 August 2015\Exam30August2015\5.WaveBits\bin\Debug\5.WaveBits.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\Programming Basics Exam - 30 August 2015\Exam30August2015\5.WaveBits\obj\Debug\5.WaveBits.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\Programming Basics Exam - 30 August 2015\Exam30August2015\5.WaveBits\obj\Debug\5.WaveBits.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\Programming Basics Exam - 30 August 2015\Exam30August2015\5.WaveBits\obj\Debug\5.WaveBits.pdb

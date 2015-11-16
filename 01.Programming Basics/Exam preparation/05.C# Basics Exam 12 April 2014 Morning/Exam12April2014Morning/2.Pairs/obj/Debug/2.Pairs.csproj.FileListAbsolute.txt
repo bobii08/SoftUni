@@ -1,0 +1,6 @@
+D:\Softuni Rules\01.Programming Basics\Exam preparation\05.C# Basics Exam 12 April 2014 Morning\Exam12April2014Morning\2.Pairs\bin\Debug\2.Pairs.exe.config
+D:\Softuni Rules\01.Programming Basics\Exam preparation\05.C# Basics Exam 12 April 2014 Morning\Exam12April2014Morning\2.Pairs\bin\Debug\2.Pairs.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\05.C# Basics Exam 12 April 2014 Morning\Exam12April2014Morning\2.Pairs\bin\Debug\2.Pairs.pdb
+D:\Softuni Rules\01.Programming Basics\Exam preparation\05.C# Basics Exam 12 April 2014 Morning\Exam12April2014Morning\2.Pairs\obj\Debug\2.Pairs.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\01.Programming Basics\Exam preparation\05.C# Basics Exam 12 April 2014 Morning\Exam12April2014Morning\2.Pairs\obj\Debug\2.Pairs.exe
+D:\Softuni Rules\01.Programming Basics\Exam preparation\05.C# Basics Exam 12 April 2014 Morning\Exam12April2014Morning\2.Pairs\obj\Debug\2.Pairs.pdb
