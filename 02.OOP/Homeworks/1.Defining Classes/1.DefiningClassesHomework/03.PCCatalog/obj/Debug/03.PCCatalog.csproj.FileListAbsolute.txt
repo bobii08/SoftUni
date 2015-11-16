@@ -1,6 +1,0 @@
-D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\03.PCCatalog\bin\Debug\03.PCCatalog.exe.config
-D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\03.PCCatalog\bin\Debug\03.PCCatalog.exe
-D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\03.PCCatalog\bin\Debug\03.PCCatalog.pdb
-D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\03.PCCatalog\obj\Debug\03.PCCatalog.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\03.PCCatalog\obj\Debug\03.PCCatalog.exe
-D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\03.PCCatalog\obj\Debug\03.PCCatalog.pdb

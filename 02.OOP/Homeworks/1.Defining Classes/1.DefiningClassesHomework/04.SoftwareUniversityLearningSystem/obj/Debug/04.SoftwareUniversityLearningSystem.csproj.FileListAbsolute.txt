@@ -1,6 +1,0 @@
-D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\04.SoftwareUniversityLearningSystem\bin\Debug\04.SoftwareUniversityLearningSystem.exe.config
-D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\04.SoftwareUniversityLearningSystem\bin\Debug\04.SoftwareUniversityLearningSystem.exe
-D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\04.SoftwareUniversityLearningSystem\bin\Debug\04.SoftwareUniversityLearningSystem.pdb
-D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\04.SoftwareUniversityLearningSystem\obj\Debug\04.SoftwareUniversityLearningSystem.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\04.SoftwareUniversityLearningSystem\obj\Debug\04.SoftwareUniversityLearningSystem.exe
-D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\04.SoftwareUniversityLearningSystem\obj\Debug\04.SoftwareUniversityLearningSystem.pdb
