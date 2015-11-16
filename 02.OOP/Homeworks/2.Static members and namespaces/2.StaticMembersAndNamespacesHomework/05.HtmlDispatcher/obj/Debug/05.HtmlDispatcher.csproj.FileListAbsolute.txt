@@ -1,0 +1,1 @@
+D:\Softuni Rules\02.OOP\Homeworks\2.Static members and namespaces\2.StaticMembersAndNamespacesHomework\05.HtmlDispatcher\bin\Debug\05.HtmlDispatcher.exe.config
