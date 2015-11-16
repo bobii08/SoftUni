@@ -1,0 +1,6 @@
+D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\02.LaptopShop\bin\Debug\02.LaptopShop.exe.config
+D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\02.LaptopShop\bin\Debug\02.LaptopShop.exe
+D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\02.LaptopShop\bin\Debug\02.LaptopShop.pdb
+D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\02.LaptopShop\obj\Debug\02.LaptopShop.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\02.LaptopShop\obj\Debug\02.LaptopShop.exe
+D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\02.LaptopShop\obj\Debug\02.LaptopShop.pdb
