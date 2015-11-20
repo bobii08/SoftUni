@@ -1,0 +1,6 @@
+D:\Softuni Rules\02.OOP\Labs\1.November2015Lab–FootballLeague\01.FootballLeague\bin\Debug\01.FootballLeague.exe.config
+D:\Softuni Rules\02.OOP\Labs\1.November2015Lab–FootballLeague\01.FootballLeague\bin\Debug\01.FootballLeague.exe
+D:\Softuni Rules\02.OOP\Labs\1.November2015Lab–FootballLeague\01.FootballLeague\bin\Debug\01.FootballLeague.pdb
+D:\Softuni Rules\02.OOP\Labs\1.November2015Lab–FootballLeague\01.FootballLeague\obj\Debug\01.FootballLeague.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\02.OOP\Labs\1.November2015Lab–FootballLeague\01.FootballLeague\obj\Debug\01.FootballLeague.exe
+D:\Softuni Rules\02.OOP\Labs\1.November2015Lab–FootballLeague\01.FootballLeague\obj\Debug\01.FootballLeague.pdb

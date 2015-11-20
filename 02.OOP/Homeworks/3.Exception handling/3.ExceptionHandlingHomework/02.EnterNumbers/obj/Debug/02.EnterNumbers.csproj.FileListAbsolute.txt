@@ -1,0 +1,6 @@
+D:\Softuni Rules\02.OOP\Homeworks\3.Exception handling\3.ExceptionHandlingHomework\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe.config
+D:\Softuni Rules\02.OOP\Homeworks\3.Exception handling\3.ExceptionHandlingHomework\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe
+D:\Softuni Rules\02.OOP\Homeworks\3.Exception handling\3.ExceptionHandlingHomework\02.EnterNumbers\bin\Debug\02.EnterNumbers.pdb
+D:\Softuni Rules\02.OOP\Homeworks\3.Exception handling\3.ExceptionHandlingHomework\02.EnterNumbers\obj\Debug\02.EnterNumbers.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\02.OOP\Homeworks\3.Exception handling\3.ExceptionHandlingHomework\02.EnterNumbers\obj\Debug\02.EnterNumbers.exe
+D:\Softuni Rules\02.OOP\Homeworks\3.Exception handling\3.ExceptionHandlingHomework\02.EnterNumbers\obj\Debug\02.EnterNumbers.pdb
