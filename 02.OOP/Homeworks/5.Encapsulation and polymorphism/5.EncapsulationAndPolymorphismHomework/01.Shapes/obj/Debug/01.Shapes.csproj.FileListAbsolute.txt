@@ -1,0 +1,6 @@
+D:\Softuni Rules\02.OOP\Homeworks\5.Encapsulation and polymorphism\5.EncapsulationAndPolymorphismHomework\01.Shapes\bin\Debug\01.Shapes.exe.config
+D:\Softuni Rules\02.OOP\Homeworks\5.Encapsulation and polymorphism\5.EncapsulationAndPolymorphismHomework\01.Shapes\bin\Debug\01.Shapes.exe
+D:\Softuni Rules\02.OOP\Homeworks\5.Encapsulation and polymorphism\5.EncapsulationAndPolymorphismHomework\01.Shapes\bin\Debug\01.Shapes.pdb
+D:\Softuni Rules\02.OOP\Homeworks\5.Encapsulation and polymorphism\5.EncapsulationAndPolymorphismHomework\01.Shapes\obj\Debug\01.Shapes.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\02.OOP\Homeworks\5.Encapsulation and polymorphism\5.EncapsulationAndPolymorphismHomework\01.Shapes\obj\Debug\01.Shapes.exe
+D:\Softuni Rules\02.OOP\Homeworks\5.Encapsulation and polymorphism\5.EncapsulationAndPolymorphismHomework\01.Shapes\obj\Debug\01.Shapes.pdb
