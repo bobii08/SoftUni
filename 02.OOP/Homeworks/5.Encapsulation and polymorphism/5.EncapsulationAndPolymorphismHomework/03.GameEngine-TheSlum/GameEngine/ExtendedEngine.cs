@@ -35,19 +35,6 @@ namespace _03.GameEngine_TheSlum.GameEngine
             string itemId = inputParams[3];
             var character = this.GetCharacterById(characterId);
 
-            if (character is IHeal)
-            {
-                character = (character as Healer);
-            }
-            else if (character is Mage)
-            {
-                character = (character as Mage);
-            }
-            else
-            {
-                character = (character as Warrior);
-            }
-
             switch (item)
             {
                 case "axe":

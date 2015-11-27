@@ -44,6 +44,17 @@ namespace _03.GameEngine_TheSlum.Characters
             this.AttackPoints += item.AttackEffect;
         }
 
+        protected override void RemoveItemEffects(Item item)
+        {
+            this.HealthPoints -= item.HealthEffect;
+            this.DefensePoints -= item.DefenseEffect;
+            if (this.HealthPoints < 0)
+            {
+                this.HealthPoints = 1;
+            }
+            this.AttackPoints -= item.AttackEffect;
+        }
+
         public override string ToString()
         {
             return base.ToString() + ", Attack: " + this.AttackPoints;

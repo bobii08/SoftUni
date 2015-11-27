@@ -43,11 +43,13 @@ namespace _03.GameEngine_TheSlum.Characters
         public void AddToInventory(Item item)
         {
             this.Inventory.Add(item);
+            this.ApplyItemEffects(item);
         }
 
         public void RemoveFromInventory(Item item)
         {
             this.Inventory.Remove(item);
+            this.RemoveItemEffects(item);
         }
 
         public override string ToString()
