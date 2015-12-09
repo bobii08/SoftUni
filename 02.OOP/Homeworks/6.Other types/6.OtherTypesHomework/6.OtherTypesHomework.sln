@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.GenericList", "03.GenericList\03.GenericList.csproj", "{BE8315E4-FA48-4582-8F49-16FE1B73F87E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.GalacticGPS", "01.GalacticGPS\01.GalacticGPS.csproj", "{7F38B799-79B2-43DD-A7A5-B338C1173F47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FractionCalculator", "02.FractionCalculator\02.FractionCalculator.csproj", "{9CC56E41-4D73-4A21-8AD0-7E0A9E8187A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.WordDocumentGenerator", "05.WordDocumentGenerator\05.WordDocumentGenerator.csproj", "{E97A3A51-21D2-4A36-87C7-480FBB52F707}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE8315E4-FA48-4582-8F49-16FE1B73F87E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8315E4-FA48-4582-8F49-16FE1B73F87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8315E4-FA48-4582-8F49-16FE1B73F87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8315E4-FA48-4582-8F49-16FE1B73F87E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F38B799-79B2-43DD-A7A5-B338C1173F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F38B799-79B2-43DD-A7A5-B338C1173F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F38B799-79B2-43DD-A7A5-B338C1173F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F38B799-79B2-43DD-A7A5-B338C1173F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC56E41-4D73-4A21-8AD0-7E0A9E8187A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC56E41-4D73-4A21-8AD0-7E0A9E8187A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC56E41-4D73-4A21-8AD0-7E0A9E8187A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC56E41-4D73-4A21-8AD0-7E0A9E8187A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E97A3A51-21D2-4A36-87C7-480FBB52F707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97A3A51-21D2-4A36-87C7-480FBB52F707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E97A3A51-21D2-4A36-87C7-480FBB52F707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97A3A51-21D2-4A36-87C7-480FBB52F707}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

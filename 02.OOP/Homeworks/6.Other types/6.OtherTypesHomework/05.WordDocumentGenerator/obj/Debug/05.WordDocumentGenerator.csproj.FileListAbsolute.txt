@@ -1,0 +1,7 @@
+D:\Softuni Rules\02.OOP\Homeworks\6.Other types\6.OtherTypesHomework\05.WordDocumentGenerator\bin\Debug\05.WordDocumentGenerator.exe.config
+D:\Softuni Rules\02.OOP\Homeworks\6.Other types\6.OtherTypesHomework\05.WordDocumentGenerator\bin\Debug\05.WordDocumentGenerator.exe
+D:\Softuni Rules\02.OOP\Homeworks\6.Other types\6.OtherTypesHomework\05.WordDocumentGenerator\bin\Debug\05.WordDocumentGenerator.pdb
+D:\Softuni Rules\02.OOP\Homeworks\6.Other types\6.OtherTypesHomework\05.WordDocumentGenerator\bin\Debug\DocX.dll
+D:\Softuni Rules\02.OOP\Homeworks\6.Other types\6.OtherTypesHomework\05.WordDocumentGenerator\obj\Debug\05.WordDocumentGenerator.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\02.OOP\Homeworks\6.Other types\6.OtherTypesHomework\05.WordDocumentGenerator\obj\Debug\05.WordDocumentGenerator.exe
+D:\Softuni Rules\02.OOP\Homeworks\6.Other types\6.OtherTypesHomework\05.WordDocumentGenerator\obj\Debug\05.WordDocumentGenerator.pdb
