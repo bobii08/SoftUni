@@ -15,7 +15,7 @@ namespace _02.EnterNumbers
             {
                 int numbersEntered = 0;
                 int previousNumber = 0;
-                while (numbersEntered <= 10)
+                while (numbersEntered < 10)
                 {
                     string numberStr = Console.ReadLine();
                     ReadNumber(numberStr, 100);

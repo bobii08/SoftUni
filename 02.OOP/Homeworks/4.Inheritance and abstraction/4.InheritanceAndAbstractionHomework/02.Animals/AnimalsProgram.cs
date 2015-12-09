@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _02.Animals
 {
-    class AnimalsProgram
+    public class AnimalsProgram
     {
         static void Main()
         {

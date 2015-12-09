@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 
 namespace _01.HumanStudentAndWorker
 {
-    abstract class Human
+    public abstract class Human
     {
         private string firstName;
         private string lastName;
 
-        public Human(string firstName, string lastName)
+        protected Human(string firstName, string lastName)
         {
             this.FirstName = firstName;
             this.LastName = lastName;

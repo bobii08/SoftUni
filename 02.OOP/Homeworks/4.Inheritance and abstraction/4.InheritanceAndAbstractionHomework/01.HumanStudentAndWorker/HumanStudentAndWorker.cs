@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _01.HumanStudentAndWorker
 {
-    class HumanStudentAndWorker
+    public class HumanStudentAndWorker
     {
         static void Main()
         {

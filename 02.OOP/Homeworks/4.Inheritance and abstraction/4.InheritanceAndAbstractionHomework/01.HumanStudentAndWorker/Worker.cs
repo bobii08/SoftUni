@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _01.HumanStudentAndWorker
 {
-    class Worker : Human
+    public class Worker : Human
     {
         public Worker(string firstName, string lastName, decimal weekSalary, int workHours)
             : base(firstName, lastName)

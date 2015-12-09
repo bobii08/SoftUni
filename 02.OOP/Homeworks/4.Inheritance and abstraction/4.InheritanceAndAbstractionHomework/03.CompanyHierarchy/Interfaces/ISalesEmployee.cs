@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _03.CompanyHierarchy.Interfaces
 {
-    interface ISalesEmployee : IRegularEmployee
+    public interface ISalesEmployee : IRegularEmployee
     {
         List<ISale> ListOfSales { get; set; }
     }

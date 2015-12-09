@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _03.CompanyHierarchy
 {
-    enum Department
+    public enum Department
     {
         Production,
         Accounting,

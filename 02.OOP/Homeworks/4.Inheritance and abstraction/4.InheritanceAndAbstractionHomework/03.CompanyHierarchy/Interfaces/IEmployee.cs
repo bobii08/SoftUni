@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _03.CompanyHierarchy.Interfaces
 {
-    interface IEmployee : IPerson
+    public interface IEmployee : IPerson
     {
         decimal Salary { get; set; }
         Department Department { get; set; }

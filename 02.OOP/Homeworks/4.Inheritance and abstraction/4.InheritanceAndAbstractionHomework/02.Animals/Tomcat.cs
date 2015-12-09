@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _02.Animals
 {
-    class Tomcat : Cat
+    public class Tomcat : Cat
     {
         public Tomcat(string name, int age)
             : base(name, age, "male")

@@ -7,7 +7,7 @@ using _03.CompanyHierarchy.Interfaces;
 
 namespace _03.CompanyHierarchy.Persons
 {
-    class Manager : Employee, IManager
+    public class Manager : Employee, IManager
     {
         public Manager(int id, string firstName, string lastName, decimal salary, Department department, List<IEmployee> listOfEmployees)
             : base(id, firstName, lastName, salary, department)

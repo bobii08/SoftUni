@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _01.HumanStudentAndWorker
 {
-    class Student : Human
+    public class Student : Human
     {
         private string facultyNumber;
 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _02.Animals
 {
-    interface ISoundProducible
+    public interface ISoundProducible
     {
         void ProduceSound();
     }

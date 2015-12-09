@@ -7,7 +7,7 @@ using _03.CompanyHierarchy.Interfaces;
 
 namespace _03.CompanyHierarchy.Persons
 {
-    class SalesEmployee : Employee, ISalesEmployee
+    public class SalesEmployee : Employee, ISalesEmployee
     {
         public SalesEmployee(int id, string firstName, string lastName, decimal salary, Department department, List<ISale> listOfSales)
             : base(id, firstName, lastName, salary, department)

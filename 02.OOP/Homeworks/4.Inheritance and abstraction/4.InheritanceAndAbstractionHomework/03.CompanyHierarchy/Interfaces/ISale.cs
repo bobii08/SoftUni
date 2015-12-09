@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _03.CompanyHierarchy.Interfaces
 {
-    interface ISale
+    public interface ISale
     {
         string ProductName { get; set; }
         DateTime Date { get; set; }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _02.Animals
 {
-    class Kitten : Cat
+    public class Kitten : Cat
     {
         public Kitten(string name, int age)
             :base(name, age, "female")

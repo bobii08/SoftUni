@@ -7,7 +7,7 @@ using _03.CompanyHierarchy.Interfaces;
 
 namespace _03.CompanyHierarchy.Persons
 {
-    class Person : IPerson
+    public class Person : IPerson
     {
         private int id;
         private string firstName;

@@ -7,7 +7,7 @@ using _03.CompanyHierarchy.Interfaces;
 
 namespace _03.CompanyHierarchy.Persons
 {
-    class Customer : Person, ICustomer
+    public class Customer : Person, ICustomer
     {
         private decimal netPurchaseAmount;
 

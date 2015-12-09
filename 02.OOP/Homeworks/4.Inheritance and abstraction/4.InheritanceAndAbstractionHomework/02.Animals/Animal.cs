@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace _02.Animals
 {
-    abstract class Animal : ISoundProducible
+    public abstract class Animal : ISoundProducible
     {
-        public Animal(string name, int age, string gender)
+        protected Animal(string name, int age, string gender)
         {
             this.Name = name;
             this.Age = age;

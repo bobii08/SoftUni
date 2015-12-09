@@ -7,11 +7,11 @@ using _03.CompanyHierarchy.Interfaces;
 
 namespace _03.CompanyHierarchy.Persons
 {
-    abstract class Employee : Person, IEmployee
+    public abstract class Employee : Person, IEmployee
     {
         private decimal salary;
 
-        public Employee(int id, string firstName, string lastName, decimal salary, Department department) : base(id, firstName, lastName)
+        protected Employee(int id, string firstName, string lastName, decimal salary, Department department) : base(id, firstName, lastName)
         {
             this.Salary = salary;
             this.Department = department;
