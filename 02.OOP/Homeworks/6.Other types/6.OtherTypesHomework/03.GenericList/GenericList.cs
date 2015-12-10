@@ -61,10 +61,11 @@ namespace _03.GenericList
 
             for (int i = index; i < this.currentIndex - 1; i++)
             {
-                this.elements[index] = this.elements[index + 1];
+                this.elements[i] = this.elements[i + 1];
             }
 
             this.currentIndex--;
+            this.elements[this.currentIndex] = default(T);
         }
 
         public void InsertElementAtGivenPosition(int index, T value)
