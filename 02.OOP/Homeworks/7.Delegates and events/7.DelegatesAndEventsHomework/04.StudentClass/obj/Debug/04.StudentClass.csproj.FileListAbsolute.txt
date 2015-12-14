@@ -1,0 +1,6 @@
+D:\Softuni Rules\02.OOP\Homeworks\7.Delegates and events\7.DelegatesAndEventsHomework\04.StudentClass\bin\Debug\04.StudentClass.exe.config
+D:\Softuni Rules\02.OOP\Homeworks\7.Delegates and events\7.DelegatesAndEventsHomework\04.StudentClass\obj\Debug\04.StudentClass.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\02.OOP\Homeworks\7.Delegates and events\7.DelegatesAndEventsHomework\04.StudentClass\bin\Debug\04.StudentClass.exe
+D:\Softuni Rules\02.OOP\Homeworks\7.Delegates and events\7.DelegatesAndEventsHomework\04.StudentClass\bin\Debug\04.StudentClass.pdb
+D:\Softuni Rules\02.OOP\Homeworks\7.Delegates and events\7.DelegatesAndEventsHomework\04.StudentClass\obj\Debug\04.StudentClass.exe
+D:\Softuni Rules\02.OOP\Homeworks\7.Delegates and events\7.DelegatesAndEventsHomework\04.StudentClass\obj\Debug\04.StudentClass.pdb

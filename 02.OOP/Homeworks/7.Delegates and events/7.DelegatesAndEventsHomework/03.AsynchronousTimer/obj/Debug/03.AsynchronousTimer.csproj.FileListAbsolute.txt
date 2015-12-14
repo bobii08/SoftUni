@@ -1,0 +1,5 @@
+D:\Softuni Rules\02.OOP\Homeworks\7.Delegates and events\7.DelegatesAndEventsHomework\03.AsynchronousTimer\bin\Debug\03.AsynchronousTimer.exe.config
+D:\Softuni Rules\02.OOP\Homeworks\7.Delegates and events\7.DelegatesAndEventsHomework\03.AsynchronousTimer\bin\Debug\03.AsynchronousTimer.exe
+D:\Softuni Rules\02.OOP\Homeworks\7.Delegates and events\7.DelegatesAndEventsHomework\03.AsynchronousTimer\bin\Debug\03.AsynchronousTimer.pdb
+D:\Softuni Rules\02.OOP\Homeworks\7.Delegates and events\7.DelegatesAndEventsHomework\03.AsynchronousTimer\obj\Debug\03.AsynchronousTimer.exe
+D:\Softuni Rules\02.OOP\Homeworks\7.Delegates and events\7.DelegatesAndEventsHomework\03.AsynchronousTimer\obj\Debug\03.AsynchronousTimer.pdb
