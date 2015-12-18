@@ -1,0 +1,5 @@
+D:\Softuni Rules\02.OOP\Exam preparation\02.OOP Exam - 24 Oct 2014\2.Farmer's creed\Farmers-Creed-Skeleton\Farmers-Creed\bin\Debug\Farm.exe
+D:\Softuni Rules\02.OOP\Exam preparation\02.OOP Exam - 24 Oct 2014\2.Farmer's creed\Farmers-Creed-Skeleton\Farmers-Creed\bin\Debug\Farm.pdb
+D:\Softuni Rules\02.OOP\Exam preparation\02.OOP Exam - 24 Oct 2014\2.Farmer's creed\Farmers-Creed-Skeleton\Farmers-Creed\obj\Debug\Farmers-Creed.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\02.OOP\Exam preparation\02.OOP Exam - 24 Oct 2014\2.Farmer's creed\Farmers-Creed-Skeleton\Farmers-Creed\obj\Debug\Farm.exe
+D:\Softuni Rules\02.OOP\Exam preparation\02.OOP Exam - 24 Oct 2014\2.Farmer's creed\Farmers-Creed-Skeleton\Farmers-Creed\obj\Debug\Farm.pdb

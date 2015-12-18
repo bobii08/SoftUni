@@ -1,0 +1,5 @@
+D:\Softuni Rules\02.OOP\Exam preparation\02.OOP Exam - 24 Oct 2014\1.Estates\Estates-Skeleton\bin\Debug\Estates.exe
+D:\Softuni Rules\02.OOP\Exam preparation\02.OOP Exam - 24 Oct 2014\1.Estates\Estates-Skeleton\bin\Debug\Estates.pdb
+D:\Softuni Rules\02.OOP\Exam preparation\02.OOP Exam - 24 Oct 2014\1.Estates\Estates-Skeleton\obj\Debug\Estates.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\02.OOP\Exam preparation\02.OOP Exam - 24 Oct 2014\1.Estates\Estates-Skeleton\obj\Debug\Estates.exe
+D:\Softuni Rules\02.OOP\Exam preparation\02.OOP Exam - 24 Oct 2014\1.Estates\Estates-Skeleton\obj\Debug\Estates.pdb

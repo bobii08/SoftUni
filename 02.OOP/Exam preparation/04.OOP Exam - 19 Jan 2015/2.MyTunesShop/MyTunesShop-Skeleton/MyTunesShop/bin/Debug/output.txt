@@ -1,0 +1,63 @@
+Singer Sully Erna added successfully
+Sully Erna: no songs
+Song Until Then by Sully Erna added successfully
+There are not enough supplies.
+Until Then (2010) by Sully Erna
+Genre: Rock, Price: $0.99
+Rating: 0
+Supplies: 0, Sold: 0
+50 items of song Until Then successfully supplied.
+20 items of song Until Then successfully sold.
+Song 7 Years by Sully Erna added successfully
+Sully Erna: 7 Years; Until Then
+Until Then (2010) by Sully Erna
+Genre: Rock, Price: $0.99
+Rating: 0
+Supplies: 30, Sold: 20
+30 items of song 7 Years successfully supplied.
+10 items of song 7 Years successfully sold.
+The rating has been placed successfully.
+The rating has been placed successfully.
+Until Then (2010) by Sully Erna
+Genre: Rock, Price: $0.99
+Rating: 0
+Supplies: 30, Sold: 20
+7 Years (2010) by Sully Erna
+Genre: Rock, Price: $0.99
+Rating: 5
+Supplies: 20, Sold: 10
+Album Avalon by Sully Erna added successfully
+Avalon (2010) by Sully Erna
+Genre: Rock, Price: $10.99
+Supplies: 0, Sold: 0
+No Songs
+The song Until Then has been added to the album Avalon.
+The song 7 Years has been added to the album Avalon.
+Avalon (2010) by Sully Erna
+Genre: Rock, Price: $10.99
+Supplies: 0, Sold: 0
+Songs: Until Then (5.09)
+
+7 Years (8.40)
+
+
+The band does not exist in the database.
+The band does not exist in the database.
+The band does not exist in the database.
+The band does not exist in the database.
+The performer does not exist in the database.
+The performer does not exist in the database.
+The performer does not exist in the database.
+The performer does not exist in the database.
+The performer does not exist in the database.
+The performer does not exist in the database.
+The album does not exist in the database.
+The album does not exist in the database.
+The album does not exist in the database.
+The album does not exist in the database.
+The album does not exist in the database.
+The song does not exist in the database.
+The song does not exist in the database.
+Object reference not set to an instance of an object.
+The song does not exist in the database.
+The song does not exist in the database.

@@ -1,0 +1,17 @@
+.NET types:
+value types - when a variable of value type is assined to another varible, it is copied by its value. Value types are stored 
+in the program's stack. The program's stack's capacity is allocated once when it is created and can't be extended; that's why 
+we have to be careful not to overflow the stack. When a variable of a value type is passed to a method, the method receives
+a copy of the variable's value. Primitive value types are immutable.
+
+reference types - when a variable of reference type is assigned to another variable, it is copied by its reference (the 
+address of the variable is assigned to the other variable). The value of a variable of a reference type is kept in the 
+dynamic memory. In the stack there is only an address of that variable that points to a particular place in the dynamic 
+memory, where the value of the variable is kept. When a variable of a reference type is passed to a method, the method receives 
+the address of the variable. Reference types are mutable.
+
+- Mutating is changing the value of an object that can mutate. When we are setting a value, a new address is created in 
+the dynamic memory. 
+
+- ref means that the object is initialized before passed to a method
+- out means that the object must be initialized inside the method

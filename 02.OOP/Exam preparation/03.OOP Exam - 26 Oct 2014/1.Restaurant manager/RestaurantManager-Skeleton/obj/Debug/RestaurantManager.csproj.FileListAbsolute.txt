@@ -1,0 +1,5 @@
+D:\Softuni Rules\02.OOP\Exam preparation\03.OOP Exam - 26 Oct 2014\1.Restaurant manager\RestaurantManager-Skeleton\bin\Debug\RestaurantManager.exe
+D:\Softuni Rules\02.OOP\Exam preparation\03.OOP Exam - 26 Oct 2014\1.Restaurant manager\RestaurantManager-Skeleton\bin\Debug\RestaurantManager.pdb
+D:\Softuni Rules\02.OOP\Exam preparation\03.OOP Exam - 26 Oct 2014\1.Restaurant manager\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\02.OOP\Exam preparation\03.OOP Exam - 26 Oct 2014\1.Restaurant manager\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.exe
+D:\Softuni Rules\02.OOP\Exam preparation\03.OOP Exam - 26 Oct 2014\1.Restaurant manager\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.pdb

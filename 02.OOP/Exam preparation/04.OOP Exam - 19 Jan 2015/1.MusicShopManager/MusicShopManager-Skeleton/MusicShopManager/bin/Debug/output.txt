@@ -1,0 +1,34 @@
+The music shop My Music Shop does not exist
+Music shop My Music Shop created
+===== My Music Shop =====
+The shop is empty. Come back soon.
+Microphone JTS TM989 created
+Article JTS TM989 successfully added to music shop My Music Shop
+===== My Music Shop =====
+Drums Legion DP-101 created
+Article Legion DP-101 successfully added to music shop My Music Shop
+Electric guitar DEAN V Chicago Flame created
+Article DEAN V Chicago Flame successfully added to music shop My Music Shop
+Acoustic guitar Aria AD-20 created
+Article Aria AD-20 successfully added to music shop My Music Shop
+The article DEAN V Chicago Flame already exists
+The article DEAN V Chicago Flame already exists in shop My Music Shop
+===== My Music Shop =====
+Music shop Other Shop created
+Article DEAN V Chicago Flame successfully added to music shop Other Shop
+Bass guitar Dean Hillsboro 09 PJ created
+Article Dean Hillsboro 09 PJ successfully added to music shop My Music Shop
+===== My Music Shop =====
+===== Other Shop =====
+The article Does Not Exist does not exist
+Electric guitar Rogue Rocketeer Deluxe created
+Electric guitar Apollo DDF-1340TV / VSB created
+Microphone JTS IN264/IN264TH created
+Article JTS IN264/IN264TH successfully added to music shop My Music Shop
+Article Rogue Rocketeer Deluxe successfully added to music shop My Music Shop
+Article Apollo DDF-1340TV / VSB successfully added to music shop My Music Shop
+===== My Music Shop =====
+Article JTS IN264/IN264TH successfully removed from music shop My Music Shop
+Article JTS TM989 successfully removed from music shop My Music Shop
+===== My Music Shop =====
+The article JTS TM989 does not exist in shop My Music Shop
