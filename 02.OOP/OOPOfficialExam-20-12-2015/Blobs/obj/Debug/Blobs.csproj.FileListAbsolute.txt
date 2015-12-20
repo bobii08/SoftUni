@@ -1,0 +1,6 @@
+C:\Users\Lyubo\Desktop\OOPOfficialExam-20-12-2015\Blobs\bin\Debug\Blobs.exe.config
+C:\Users\Lyubo\Desktop\OOPOfficialExam-20-12-2015\Blobs\obj\Debug\Blobs.csprojResolveAssemblyReference.cache
+C:\Users\Lyubo\Desktop\OOPOfficialExam-20-12-2015\Blobs\bin\Debug\Blobs.exe
+C:\Users\Lyubo\Desktop\OOPOfficialExam-20-12-2015\Blobs\bin\Debug\Blobs.pdb
+C:\Users\Lyubo\Desktop\OOPOfficialExam-20-12-2015\Blobs\obj\Debug\Blobs.exe
+C:\Users\Lyubo\Desktop\OOPOfficialExam-20-12-2015\Blobs\obj\Debug\Blobs.pdb
