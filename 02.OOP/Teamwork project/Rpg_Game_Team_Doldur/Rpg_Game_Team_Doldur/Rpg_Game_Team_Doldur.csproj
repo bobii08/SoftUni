@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F0D65B70-1147-4158-A4D7-68238D3C0B06}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Rpg_Game_Team_Doldur</RootNamespace>
+    <AssemblyName>Rpg_Game_Team_Doldur</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Characters\Character.cs" />
+    <Compile Include="Characters\Enemies\Gargoyle.cs" />
+    <Compile Include="Characters\PlayerCharacters\Archer.cs" />
+    <Compile Include="Characters\PlayerCharacters\Mage.cs" />
+    <Compile Include="Characters\PlayerCharacters\Warrior.cs" />
+    <Compile Include="Characters\Enemies\Bandit.cs" />
+    <Compile Include="Characters\Enemies\Enemy.cs" />
+    <Compile Include="Characters\Enemies\EnemyFactory.cs" />
+    <Compile Include="Characters\PlayerCharacters\Player.cs" />
+    <Compile Include="Dependencies\TextBoxReader.cs" />
+    <Compile Include="Dependencies\Tiles.cs" />
+    <Compile Include="Engines\CollisionDetection.cs" />
+    <Compile Include="Engines\Screens\CombatScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Engines\Screens\CombatScreen.Designer.cs">
+      <DependentUpon>CombatScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Engines\EnemyHandler.cs" />
+    <Compile Include="Engines\Screens\ChooseCharacterScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Engines\Screens\ChooseCharacterScreen.Designer.cs">
+      <DependentUpon>ChooseCharacterScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Engines\Screens\StartScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Engines\Screens\StartScreen.Designer.cs">
+      <DependentUpon>StartScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Engines\Screens\Worlds\ShadowMountains.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Engines\Screens\Worlds\ShadowMountains.Designer.cs">
+      <DependentUpon>ShadowMountains.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaces\IAttack.cs" />
+    <Compile Include="Interfaces\ICharacter.cs" />
+    <Compile Include="Interfaces\ICollision.cs" />
+    <Compile Include="Interfaces\IDestroyable.cs" />
+    <Compile Include="Interfaces\IHeal.cs" />
+    <Compile Include="Interfaces\IWeapon.cs" />
+    <Compile Include="Interfaces\IPlayer.cs" />
+    <Compile Include="Weapons\Bow.cs" />
+    <Compile Include="Weapons\Sword.cs" />
+    <Compile Include="Position.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Weapons\Wand.cs" />
+    <Compile Include="Weapons\Weapon.cs" />
+    <EmbeddedResource Include="Engines\Screens\CombatScreen.resx">
+      <DependentUpon>CombatScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Engines\Screens\ChooseCharacterScreen.resx">
+      <DependentUpon>ChooseCharacterScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Engines\Screens\StartScreen.resx">
+      <DependentUpon>StartScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Engines\Screens\Worlds\ShadowMountains.resx">
+      <DependentUpon>ShadowMountains.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WarriorBig.png" />
+    <None Include="Resources\Bandits.png" />
+    <None Include="Resources\Archer.png" />
+    <Content Include="Resources\BOV_Warrior.png" />
+    <None Include="Resources\ElfBig.png" />
+    <None Include="Resources\Gargoyle.png" />
+    <Content Include="Resources\GoblinCombatSprite.png" />
+    <None Include="Resources\GrassTile.png" />
+    <None Include="Resources\Mage.png" />
+    <None Include="Resources\MageBig.png" />
+    <Content Include="Resources\MonsterSprite.png" />
+    <Content Include="Resources\PlayerKnightCombatSprite.png" />
+    <Content Include="Resources\PlayerPartySprite.png" />
+    <Content Include="Resources\Rogue.png" />
+    <None Include="Resources\WaterTile.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
