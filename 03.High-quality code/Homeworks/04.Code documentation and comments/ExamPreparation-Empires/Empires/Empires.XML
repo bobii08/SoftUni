@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Empires</name>
+    </assembly>
+    <members>
+        <member name="T:Empires.Core.Interfaces.IExecute">
+            <summary>
+            Executes commands
+            </summary>
+        </member>
+        <member name="M:Empires.Core.Interfaces.IExecute.ExecuteCommand(System.String[])">
+            <summary>
+            Returns the result according to the given commandArgs parameter
+            </summary>
+            <param name="commandArgs">an array of arguments of the command</param>
+            <returns>a string result from the executed command</returns>
+        </member>
+        <member name="T:Empires.Core.Interfaces.IReader">
+            <summary>
+            Reads the input data
+            </summary>
+        </member>
+        <member name="M:Empires.Core.Interfaces.IReader.ReadLine">
+            <summary>
+            Reads a line from a file or something like
+            </summary>
+            <returns>a string line</returns>
+        </member>
+        <member name="T:Empires.Core.Interfaces.IDatabase">
+            <summary>
+            Represents a database
+            </summary>
+        </member>
+        <member name="M:Empires.Core.Interfaces.IDatabase.AddBuilding(Empires.Models.Interfaces.IBuilding)">
+            <summary>
+            Adds a building to the database
+            </summary>
+            <param name="building">the building to be added</param>
+        </member>
+        <member name="M:Empires.Core.Interfaces.IDatabase.AddResource(System.String,System.Int32)">
+            <summary>
+            Adds a certain quantity of some kind of a resource to the database
+            </summary>
+            <param name="resourceType">the resource type to be added to the database</param>
+            <param name="quantity">the quantity of the resource to be added</param>
+        </member>
+        <member name="M:Empires.Core.Interfaces.IDatabase.AddUnit(System.String)">
+            <summary>
+            Adds one unit of a certain type, represented as a string, to the database
+            </summary>
+            <param name="unitType">the unit type, represented as a string, to be added</param>
+        </member>
+        <member name="P:Empires.Core.Interfaces.IDatabase.Buildings">
+            <summary>
+            A set of buildings
+            </summary>
+        </member>
+        <member name="P:Empires.Core.Interfaces.IDatabase.Resources">
+            <summary>
+            A set of resources
+            </summary>
+        </member>
+        <member name="P:Empires.Core.Interfaces.IDatabase.Units">
+            <summary>
+            A set of units
+            </summary>
+        </member>
+        <member name="T:Empires.Core.Interfaces.IEngine">
+            <summary>
+            The engine of the game
+            </summary>
+        </member>
+        <member name="M:Empires.Core.Interfaces.IEngine.Run">
+            <summary>
+            Starts the engine
+            </summary>
+        </member>
+        <member name="T:Empires.Core.Interfaces.IRenderer">
+            <summary>
+            Prints the output data
+            </summary>
+        </member>
+        <member name="M:Empires.Core.Interfaces.IRenderer.Write(System.String)">
+            <summary>
+            Prints a line
+            </summary>
+            <param name="line">the line to be printed</param>
+        </member>
+        <member name="M:Empires.Core.Interfaces.IRenderer.WriteLine(System.String)">
+            <summary>
+            Prints a line and goes to the next line
+            </summary>
+            <param name="line">the line to be printed</param>
+        </member>
+        <member name="T:Empires.Models.Interfaces.IUnit">
+            <summary>
+            Represents a unit
+            </summary>
+        </member>
+        <member name="P:Empires.Models.Interfaces.IUnit.Health">
+            <summary>
+            The unit's health
+            </summary>
+        </member>
+        <member name="P:Empires.Models.Interfaces.IUnit.AttackDamage">
+            <summary>
+            The unit's damage
+            </summary>
+        </member>
+        <member name="T:Empires.Models.Interfaces.IBuilding">
+            <summary>
+            Represents some kind of building
+            </summary>
+        </member>
+        <member name="M:Empires.Models.Interfaces.IBuilding.ProduceResource">
+            <summary>
+            Poduces some kind of resource
+            </summary>
+            <returns>Some kind of resource</returns>
+        </member>
+        <member name="M:Empires.Models.Interfaces.IBuilding.ProduceUnit">
+            <summary>
+            Produces some kind of unit
+            </summary>
+            <returns>Some kind of unit</returns>
+        </member>
+        <member name="P:Empires.Models.Interfaces.IBuilding.BuildingTurnsPassed">
+            <summary>
+            The turns that have passed since the building has been created
+            </summary>
+        </member>
+        <member name="P:Empires.Models.Interfaces.IBuilding.TurnsForResourceCreation">
+            <summary>
+            The number of turns needed to pass in order for a resource to be created
+            </summary>
+        </member>
+        <member name="P:Empires.Models.Interfaces.IBuilding.TurnsForUnitCreation">
+            <summary>
+            The number of turns needed to pass in order for a unit to be created
+            </summary>
+        </member>
+        <member name="T:Empires.Models.Interfaces.IResource">
+            <summary>
+            Represents a resource
+            </summary>
+        </member>
+        <member name="P:Empires.Models.Interfaces.IResource.Type">
+            <summary>
+            The type of the resource
+            </summary>
+        </member>
+        <member name="P:Empires.Models.Interfaces.IResource.Quantity">
+            <summary>
+            The quantity of the resource
+            </summary>
+        </member>
+    </members>
+</doc>

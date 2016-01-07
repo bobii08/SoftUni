@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>01.StringExtensions</name>
+    </assembly>
+    <members>
+        <member name="T:StringExtensions">
+            <summary>
+            Contains different extension of the string type
+            </summary>
+        </member>
+        <member name="M:StringExtensions.ToMd5Hash(System.String)">
+            <summary>
+            Converts the string into a hash code by a certain logic
+            </summary>
+            <param name="input">the string we manipulate (extend)</param>
+            <returns>the string converted into hash code</returns>
+        </member>
+        <member name="M:StringExtensions.ToBoolean(System.String)">
+            <summary>
+            Checks if one of the words in the array below is present in the current string
+            </summary>
+            <param name="input">the string we check</param>
+            <returns>boolean variable(true or false)</returns>
+        </member>
+        <member name="M:StringExtensions.ToShort(System.String)">
+            <summary>
+            Tries to convert a value of type string into a value of type short (tries to parse string into short)
+            </summary>
+            <param name="input">the string we check</param>
+            <returns>in case of success: the string value converted into short; in case of fail in parsing: the default value of short i.e. 0</returns>
+        </member>
+        <member name="M:StringExtensions.ToInteger(System.String)">
+            <summary>
+            Tries to convert a string into an integer
+            </summary>
+            <param name="input">the string we check</param>
+            <returns>in case of success: the string value converted into int; in case of fail in parsing: the default value of int i.e. 0</returns>
+        </member>
+        <member name="M:StringExtensions.ToLong(System.String)">
+            <summary>
+            Tries to convert a string into an integer number of type long
+            </summary>
+            <param name="input">the string we check</param>
+            <returns>in case of success: the string value converted into long; in case of fail in parsing: the default value of long i.e. 0</returns>
+        </member>
+        <member name="M:StringExtensions.ToDateTime(System.String)">
+            <summary>
+            Tries to convert a string value into a value of time DateTime
+            </summary>
+            <param name="input">the string we check</param>
+            <returns>in case of fail in parsing: the default value of DateTime i.e. 01-Jan-01 12:00:00 AM</returns>
+        </member>
+        <member name="M:StringExtensions.CapitalizeFirstLetter(System.String)">
+            <summary>
+            Tries to make the first letter of a string capital
+            </summary>
+            <param name="input">the string we check</param>
+            <returns>if the string we check is null or empty: the string we are checking; if the string is not null or empty: capitalizes the first letter of the string</returns>
+        </member>
+        <member name="M:StringExtensions.GetStringBetween(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Gets the string between two separate strings in the string value we check
+            </summary>
+            <param name="input">the string we check</param>
+            <param name="startString">the first string that is supposed to be a part of the string we check</param>
+            <param name="endString">the seconds string that is supposed to be a part of the string we check</param>
+            <param name="startFrom">the start position from which we began to search the first string</param>
+            <returns>the string between the two strings we give to the method; in case of fail: string.Empty</returns>
+        </member>
+        <member name="M:StringExtensions.ConvertCyrillicToLatinLetters(System.String)">
+            <summary>
+            Converts cyrillic letters to latin letters
+            </summary>
+            <param name="input">the string we check</param>
+            <returns>the converted string which consists of latin letters</returns>
+        </member>
+        <member name="M:StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)">
+            <summary>
+            Converts latin letters to cyrillic letters according to the keyboard
+            </summary>
+            <param name="input">the string we check</param>
+            <returns>the string converted into cyrillic letters</returns>
+        </member>
+        <member name="M:StringExtensions.ToValidUsername(System.String)">
+            <summary>
+            Changes the cyrillic letters with latin letters and converts the string into a valid user name according to a certain logic. The logic simply removes characters different than all latin letters, all numbers and the "_" and "." symbols
+            </summary>
+            <param name="input">the string we check</param>
+            <returns>the string converted into a valid user name</returns>
+        </member>
+        <member name="M:StringExtensions.ToValidLatinFileName(System.String)">
+            <summary>
+            Changes the cyrillic letters with latin letters and the single whitespaces with the "-" symbol. Converts the string into a valid file name written with latin letters
+            </summary>
+            <param name="input">the string we check</param>
+            <returns>the string converted into a valid latin file name</returns>
+        </member>
+        <member name="M:StringExtensions.GetFirstCharacters(System.String,System.Int32)">
+            <summary>
+            Gets the first characters of the string
+            </summary>
+            <param name="input">the string we manipulate</param>
+            <param name="charsCount">the number of characters we want to get from the beginning of the string</param>
+            <returns>a substring from the string we manipulate or the whole string in case the charsCount argument is less than the length of the string</returns>
+        </member>
+        <member name="M:StringExtensions.GetFileExtension(System.String)">
+            <summary>
+            Gets the extesion of the file name
+            </summary>
+            <param name="fileName">the string we manipulate</param>
+            <returns>in case of success: the string after the last "." symbol; in case of fail: string.Empty</returns>
+        </member>
+        <member name="M:StringExtensions.ToContentType(System.String)">
+            <summary>
+            Converts a file extesion into content type
+            </summary>
+            <param name="fileExtension"></param>
+            <returns></returns>
+        </member>
+        <member name="M:StringExtensions.ToByteArray(System.String)">
+            <summary>
+            Converts the string into an array of bytes
+            </summary>
+            <param name="input">hte string we convert</param>
+            <returns>an array of bytes</returns>
+        </member>
+    </members>
+</doc>
