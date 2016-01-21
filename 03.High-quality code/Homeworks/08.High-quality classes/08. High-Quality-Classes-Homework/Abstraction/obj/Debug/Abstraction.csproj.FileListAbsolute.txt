@@ -1,0 +1,9 @@
+D:\Softuni Rules\JustSomeFolder\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\08.High-quality classes\08. High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.exe
+D:\Softuni Rules\JustSomeFolder\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\08.High-quality classes\08. High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.pdb
+D:\Softuni Rules\JustSomeFolder\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\08.High-quality classes\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\JustSomeFolder\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\08.High-quality classes\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.exe
+D:\Softuni Rules\JustSomeFolder\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\08.High-quality classes\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.pdb
+D:\Softuni\JSF\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\08.High-quality classes\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.exe
+D:\Softuni\JSF\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\08.High-quality classes\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.pdb
+D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\08.High-quality classes\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.exe
+D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\08.High-quality classes\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.pdb

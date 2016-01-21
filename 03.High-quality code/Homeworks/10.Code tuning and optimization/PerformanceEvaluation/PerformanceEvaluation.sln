@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PerformanceOfOperations", "02.PerformanceOfOperations\02.PerformanceOfOperations.csproj", "{266547D9-6935-4A07-8CE8-283E65A56208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CompareSortingAlgorithms", "03.CompareSortingAlgorithms\03.CompareSortingAlgorithms.csproj", "{22EAD6C3-7BB4-4D0B-B1BC-C48CF0BB1830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{266547D9-6935-4A07-8CE8-283E65A56208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266547D9-6935-4A07-8CE8-283E65A56208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266547D9-6935-4A07-8CE8-283E65A56208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266547D9-6935-4A07-8CE8-283E65A56208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22EAD6C3-7BB4-4D0B-B1BC-C48CF0BB1830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22EAD6C3-7BB4-4D0B-B1BC-C48CF0BB1830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22EAD6C3-7BB4-4D0B-B1BC-C48CF0BB1830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22EAD6C3-7BB4-4D0B-B1BC-C48CF0BB1830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

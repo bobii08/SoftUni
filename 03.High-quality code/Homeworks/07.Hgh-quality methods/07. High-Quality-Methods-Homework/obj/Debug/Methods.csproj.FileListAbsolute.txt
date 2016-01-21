@@ -1,0 +1,12 @@
+D:\Softuni Rules\JustSomeFolder\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\07.Hgh-quality methods\07. High-Quality-Methods-Homework\bin\Debug\Methods.exe
+D:\Softuni Rules\JustSomeFolder\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\07.Hgh-quality methods\07. High-Quality-Methods-Homework\bin\Debug\Methods.pdb
+D:\Softuni Rules\JustSomeFolder\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\07.Hgh-quality methods\07. High-Quality-Methods-Homework\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\JustSomeFolder\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\07.Hgh-quality methods\07. High-Quality-Methods-Homework\obj\Debug\Methods.exe
+D:\Softuni Rules\JustSomeFolder\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\07.Hgh-quality methods\07. High-Quality-Methods-Homework\obj\Debug\Methods.pdb
+D:\Softuni\JSF\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\07.Hgh-quality methods\07. High-Quality-Methods-Homework\obj\Debug\Methods.exe
+D:\Softuni\JSF\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\07.Hgh-quality methods\07. High-Quality-Methods-Homework\obj\Debug\Methods.pdb
+D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\07.Hgh-quality methods\07. High-Quality-Methods-Homework\obj\Debug\Methods.exe
+D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\07.Hgh-quality methods\07. High-Quality-Methods-Homework\obj\Debug\Methods.pdb
+D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\07.Hgh-quality methods\07. High-Quality-Methods-Homework\bin\Debug\Methods.exe
+D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\07.Hgh-quality methods\07. High-Quality-Methods-Homework\bin\Debug\Methods.pdb
+D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\07.Hgh-quality methods\07. High-Quality-Methods-Homework\obj\Debug\Methods.csprojResolveAssemblyReference.cache
