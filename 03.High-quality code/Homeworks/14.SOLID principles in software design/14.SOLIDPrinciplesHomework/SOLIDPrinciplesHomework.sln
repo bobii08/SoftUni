@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcticeLogger", "ParcticeLogger\ParcticeLogger.csproj", "{8C2FC593-2FB5-4A87-A497-B6554474291E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerLibrary", "LoggerLibrary\LoggerLibrary.csproj", "{5E5A4B5A-F924-4A12-AFAD-7374AA35AD9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C2FC593-2FB5-4A87-A497-B6554474291E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2FC593-2FB5-4A87-A497-B6554474291E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2FC593-2FB5-4A87-A497-B6554474291E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2FC593-2FB5-4A87-A497-B6554474291E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5A4B5A-F924-4A12-AFAD-7374AA35AD9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5A4B5A-F924-4A12-AFAD-7374AA35AD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5A4B5A-F924-4A12-AFAD-7374AA35AD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5A4B5A-F924-4A12-AFAD-7374AA35AD9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

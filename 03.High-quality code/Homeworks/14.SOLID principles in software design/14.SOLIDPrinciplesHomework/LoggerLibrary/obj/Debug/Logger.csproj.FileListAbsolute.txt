@@ -1,0 +1,5 @@
+D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\14.SOLID principles in software design\SOLIDPrinciplesHomework\Logger\bin\Debug\Logger.dll
+D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\14.SOLID principles in software design\SOLIDPrinciplesHomework\Logger\bin\Debug\Logger.pdb
+D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\14.SOLID principles in software design\SOLIDPrinciplesHomework\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\14.SOLID principles in software design\SOLIDPrinciplesHomework\Logger\obj\Debug\Logger.dll
+D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\14.SOLID principles in software design\SOLIDPrinciplesHomework\Logger\obj\Debug\Logger.pdb
