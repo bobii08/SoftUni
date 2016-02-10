@@ -1,0 +1,6 @@
+D:\myrepo\SoftUni\03.Hiqh-quality code\Exam preparation\03.High-Quality Code - 23 August 2015\BangaloreUniversityLearningSystem-Skeleton\BULS\bin\Debug\BangaloreUniversityLearningSystem.exe.config
+D:\myrepo\SoftUni\03.Hiqh-quality code\Exam preparation\03.High-Quality Code - 23 August 2015\BangaloreUniversityLearningSystem-Skeleton\BULS\obj\Debug\BULS.csprojResolveAssemblyReference.cache
+D:\myrepo\SoftUni\03.Hiqh-quality code\Exam preparation\03.High-Quality Code - 23 August 2015\BangaloreUniversityLearningSystem-Skeleton\BULS\bin\Debug\BangaloreUniversityLearningSystem.exe
+D:\myrepo\SoftUni\03.Hiqh-quality code\Exam preparation\03.High-Quality Code - 23 August 2015\BangaloreUniversityLearningSystem-Skeleton\BULS\bin\Debug\BangaloreUniversityLearningSystem.pdb
+D:\myrepo\SoftUni\03.Hiqh-quality code\Exam preparation\03.High-Quality Code - 23 August 2015\BangaloreUniversityLearningSystem-Skeleton\BULS\obj\Debug\BangaloreUniversityLearningSystem.exe
+D:\myrepo\SoftUni\03.Hiqh-quality code\Exam preparation\03.High-Quality Code - 23 August 2015\BangaloreUniversityLearningSystem-Skeleton\BULS\obj\Debug\BangaloreUniversityLearningSystem.pdb
