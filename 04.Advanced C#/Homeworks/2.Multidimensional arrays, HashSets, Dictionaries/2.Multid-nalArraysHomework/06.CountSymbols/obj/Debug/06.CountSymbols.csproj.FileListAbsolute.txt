@@ -1,0 +1,11 @@
+D:\Softuni Rules\02.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\06.CountSymbols\bin\Debug\06.CountSymbols.exe.config
+D:\Softuni Rules\02.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\06.CountSymbols\bin\Debug\06.CountSymbols.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\06.CountSymbols\bin\Debug\06.CountSymbols.pdb
+D:\Softuni Rules\02.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\06.CountSymbols\obj\Debug\06.CountSymbols.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\06.CountSymbols\obj\Debug\06.CountSymbols.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\06.CountSymbols\bin\Debug\06.CountSymbols.exe.config
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\06.CountSymbols\obj\Debug\06.CountSymbols.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\06.CountSymbols\obj\Debug\06.CountSymbols.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\06.CountSymbols\bin\Debug\06.CountSymbols.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\06.CountSymbols\bin\Debug\06.CountSymbols.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\06.CountSymbols\obj\Debug\06.CountSymbols.csprojResolveAssemblyReference.cache

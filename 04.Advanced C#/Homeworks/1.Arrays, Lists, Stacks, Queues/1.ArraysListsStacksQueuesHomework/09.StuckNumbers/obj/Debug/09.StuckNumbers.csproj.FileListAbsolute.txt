@@ -1,0 +1,12 @@
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\09.StuckNumbers\bin\Debug\09.StuckNumbers.exe.config
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\09.StuckNumbers\bin\Debug\09.StuckNumbers.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\09.StuckNumbers\bin\Debug\09.StuckNumbers.pdb
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\09.StuckNumbers\obj\Debug\09.StuckNumbers.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\09.StuckNumbers\obj\Debug\09.StuckNumbers.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\09.StuckNumbers\obj\Debug\09.StuckNumbers.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\09.StuckNumbers\bin\Debug\09.StuckNumbers.exe.config
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\09.StuckNumbers\obj\Debug\09.StuckNumbers.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\09.StuckNumbers\obj\Debug\09.StuckNumbers.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\09.StuckNumbers\bin\Debug\09.StuckNumbers.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\09.StuckNumbers\bin\Debug\09.StuckNumbers.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\09.StuckNumbers\obj\Debug\09.StuckNumbers.csprojResolveAssemblyReference.cache

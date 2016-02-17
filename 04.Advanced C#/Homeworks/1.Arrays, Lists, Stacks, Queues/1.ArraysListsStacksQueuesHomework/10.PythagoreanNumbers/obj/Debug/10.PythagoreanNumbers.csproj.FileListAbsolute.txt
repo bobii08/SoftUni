@@ -1,0 +1,12 @@
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\10.PythagoreanNumbers\bin\Debug\10.PythagoreanNumbers.exe.config
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\10.PythagoreanNumbers\bin\Debug\10.PythagoreanNumbers.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\10.PythagoreanNumbers\bin\Debug\10.PythagoreanNumbers.pdb
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\10.PythagoreanNumbers\obj\Debug\10.PythagoreanNumbers.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\10.PythagoreanNumbers\obj\Debug\10.PythagoreanNumbers.pdb
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\10.PythagoreanNumbers\obj\Debug\10.PythagoreanNumbers.csprojResolveAssemblyReference.cache
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\10.PythagoreanNumbers\bin\Debug\10.PythagoreanNumbers.exe.config
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\10.PythagoreanNumbers\obj\Debug\10.PythagoreanNumbers.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\10.PythagoreanNumbers\obj\Debug\10.PythagoreanNumbers.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\10.PythagoreanNumbers\bin\Debug\10.PythagoreanNumbers.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\10.PythagoreanNumbers\bin\Debug\10.PythagoreanNumbers.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\10.PythagoreanNumbers\obj\Debug\10.PythagoreanNumbers.csprojResolveAssemblyReference.cache

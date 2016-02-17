@@ -1,0 +1,12 @@
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\02.SelectionSortAlgorithm\bin\Debug\02.SelectionSortAlgorithm.exe.config
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\02.SelectionSortAlgorithm\bin\Debug\02.SelectionSortAlgorithm.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\02.SelectionSortAlgorithm\bin\Debug\02.SelectionSortAlgorithm.pdb
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\02.SelectionSortAlgorithm\obj\Debug\02.SelectionSortAlgorithm.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\02.SelectionSortAlgorithm\obj\Debug\02.SelectionSortAlgorithm.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\02.SelectionSortAlgorithm\obj\Debug\02.SelectionSortAlgorithm.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\02.SelectionSortAlgorithm\bin\Debug\02.SelectionSortAlgorithm.exe.config
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\02.SelectionSortAlgorithm\obj\Debug\02.SelectionSortAlgorithm.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\02.SelectionSortAlgorithm\obj\Debug\02.SelectionSortAlgorithm.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\02.SelectionSortAlgorithm\bin\Debug\02.SelectionSortAlgorithm.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\02.SelectionSortAlgorithm\bin\Debug\02.SelectionSortAlgorithm.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\02.SelectionSortAlgorithm\obj\Debug\02.SelectionSortAlgorithm.csprojResolveAssemblyReference.cache

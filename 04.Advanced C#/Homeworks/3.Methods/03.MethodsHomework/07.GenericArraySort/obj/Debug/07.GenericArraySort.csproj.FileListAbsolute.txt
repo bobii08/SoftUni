@@ -1,0 +1,12 @@
+D:\Softuni Rules\02.Advanced C#\Homeworks\3.Methods\03.MethodsHomework\07.GenericArraySort\bin\Debug\07.GenericArraySort.exe.config
+D:\Softuni Rules\02.Advanced C#\Homeworks\3.Methods\03.MethodsHomework\07.GenericArraySort\bin\Debug\07.GenericArraySort.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\3.Methods\03.MethodsHomework\07.GenericArraySort\bin\Debug\07.GenericArraySort.pdb
+D:\Softuni Rules\02.Advanced C#\Homeworks\3.Methods\03.MethodsHomework\07.GenericArraySort\obj\Debug\07.GenericArraySort.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\02.Advanced C#\Homeworks\3.Methods\03.MethodsHomework\07.GenericArraySort\obj\Debug\07.GenericArraySort.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\3.Methods\03.MethodsHomework\07.GenericArraySort\obj\Debug\07.GenericArraySort.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\3.Methods\03.MethodsHomework\07.GenericArraySort\bin\Debug\07.GenericArraySort.exe.config
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\3.Methods\03.MethodsHomework\07.GenericArraySort\obj\Debug\07.GenericArraySort.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\3.Methods\03.MethodsHomework\07.GenericArraySort\obj\Debug\07.GenericArraySort.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\3.Methods\03.MethodsHomework\07.GenericArraySort\bin\Debug\07.GenericArraySort.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\3.Methods\03.MethodsHomework\07.GenericArraySort\bin\Debug\07.GenericArraySort.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\3.Methods\03.MethodsHomework\07.GenericArraySort\obj\Debug\07.GenericArraySort.csprojResolveAssemblyReference.cache

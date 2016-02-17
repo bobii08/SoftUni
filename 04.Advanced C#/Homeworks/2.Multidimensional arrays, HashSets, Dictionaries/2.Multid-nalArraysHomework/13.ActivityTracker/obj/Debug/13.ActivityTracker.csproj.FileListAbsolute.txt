@@ -1,0 +1,12 @@
+D:\Softuni Rules\02.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\13.ActivityTracker\bin\Debug\13.ActivityTracker.exe.config
+D:\Softuni Rules\02.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\13.ActivityTracker\bin\Debug\13.ActivityTracker.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\13.ActivityTracker\bin\Debug\13.ActivityTracker.pdb
+D:\Softuni Rules\02.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\13.ActivityTracker\obj\Debug\13.ActivityTracker.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\02.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\13.ActivityTracker\obj\Debug\13.ActivityTracker.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\13.ActivityTracker\obj\Debug\13.ActivityTracker.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\13.ActivityTracker\bin\Debug\13.ActivityTracker.exe.config
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\13.ActivityTracker\obj\Debug\13.ActivityTracker.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\13.ActivityTracker\obj\Debug\13.ActivityTracker.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\13.ActivityTracker\bin\Debug\13.ActivityTracker.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\13.ActivityTracker\bin\Debug\13.ActivityTracker.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\13.ActivityTracker\obj\Debug\13.ActivityTracker.csprojResolveAssemblyReference.cache

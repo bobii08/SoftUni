@@ -1,0 +1,12 @@
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\06.SubsetSums\bin\Debug\06.SubsetSums.exe.config
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\06.SubsetSums\bin\Debug\06.SubsetSums.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\06.SubsetSums\bin\Debug\06.SubsetSums.pdb
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\06.SubsetSums\obj\Debug\06.SubsetSums.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\06.SubsetSums\obj\Debug\06.SubsetSums.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\06.SubsetSums\obj\Debug\06.SubsetSums.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\06.SubsetSums\bin\Debug\06.SubsetSums.exe.config
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\06.SubsetSums\obj\Debug\06.SubsetSums.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\06.SubsetSums\obj\Debug\06.SubsetSums.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\06.SubsetSums\bin\Debug\06.SubsetSums.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\06.SubsetSums\bin\Debug\06.SubsetSums.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\06.SubsetSums\obj\Debug\06.SubsetSums.csprojResolveAssemblyReference.cache

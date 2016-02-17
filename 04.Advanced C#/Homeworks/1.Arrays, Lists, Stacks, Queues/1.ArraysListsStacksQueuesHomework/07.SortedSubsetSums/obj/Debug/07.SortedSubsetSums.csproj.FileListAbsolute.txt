@@ -1,0 +1,12 @@
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.exe.config
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.pdb
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.exe.config
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.csprojResolveAssemblyReference.cache

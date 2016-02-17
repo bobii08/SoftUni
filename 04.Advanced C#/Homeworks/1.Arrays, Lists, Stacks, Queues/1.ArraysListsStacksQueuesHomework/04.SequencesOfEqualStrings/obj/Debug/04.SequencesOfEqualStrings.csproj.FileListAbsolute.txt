@@ -1,0 +1,12 @@
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\04.SequencesOfEqualStrings\bin\Debug\04.SequencesOfEqualStrings.exe.config
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\04.SequencesOfEqualStrings\bin\Debug\04.SequencesOfEqualStrings.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\04.SequencesOfEqualStrings\bin\Debug\04.SequencesOfEqualStrings.pdb
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\04.SequencesOfEqualStrings\obj\Debug\04.SequencesOfEqualStrings.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\04.SequencesOfEqualStrings\obj\Debug\04.SequencesOfEqualStrings.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\04.SequencesOfEqualStrings\obj\Debug\04.SequencesOfEqualStrings.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\04.SequencesOfEqualStrings\bin\Debug\04.SequencesOfEqualStrings.exe.config
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\04.SequencesOfEqualStrings\obj\Debug\04.SequencesOfEqualStrings.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\04.SequencesOfEqualStrings\obj\Debug\04.SequencesOfEqualStrings.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\04.SequencesOfEqualStrings\bin\Debug\04.SequencesOfEqualStrings.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\04.SequencesOfEqualStrings\bin\Debug\04.SequencesOfEqualStrings.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\1.Arrays, Lists, Stacks, Queues\1.ArraysListsStacksQueuesHomework\04.SequencesOfEqualStrings\obj\Debug\04.SequencesOfEqualStrings.csprojResolveAssemblyReference.cache

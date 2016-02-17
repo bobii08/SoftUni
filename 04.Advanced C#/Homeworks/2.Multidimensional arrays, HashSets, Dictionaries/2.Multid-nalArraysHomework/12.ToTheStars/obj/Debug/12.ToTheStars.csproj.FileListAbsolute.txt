@@ -1,0 +1,12 @@
+D:\Softuni Rules\02.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\12.ToTheStars\bin\Debug\12.ToTheStars.exe.config
+D:\Softuni Rules\02.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\12.ToTheStars\bin\Debug\12.ToTheStars.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\12.ToTheStars\bin\Debug\12.ToTheStars.pdb
+D:\Softuni Rules\02.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\12.ToTheStars\obj\Debug\12.ToTheStars.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\02.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\12.ToTheStars\obj\Debug\12.ToTheStars.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\12.ToTheStars\obj\Debug\12.ToTheStars.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\12.ToTheStars\bin\Debug\12.ToTheStars.exe.config
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\12.ToTheStars\obj\Debug\12.ToTheStars.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\12.ToTheStars\obj\Debug\12.ToTheStars.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\12.ToTheStars\bin\Debug\12.ToTheStars.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\12.ToTheStars\bin\Debug\12.ToTheStars.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\2.Multidimensional arrays, HashSets, Dictionaries\2.Multid-nalArraysHomework\12.ToTheStars\obj\Debug\12.ToTheStars.csprojResolveAssemblyReference.cache
