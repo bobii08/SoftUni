@@ -1,0 +1,10 @@
+D:\Softuni Rules\02.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\02.StringLength\bin\Debug\02.StringLength.exe.config
+D:\Softuni Rules\02.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\02.StringLength\bin\Debug\02.StringLength.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\02.StringLength\bin\Debug\02.StringLength.pdb
+D:\Softuni Rules\02.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\02.StringLength\obj\Debug\02.StringLength.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\02.StringLength\obj\Debug\02.StringLength.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\02.StringLength\bin\Debug\02.StringLength.exe.config
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\02.StringLength\obj\Debug\02.StringLength.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\02.StringLength\obj\Debug\02.StringLength.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\02.StringLength\bin\Debug\02.StringLength.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\02.StringLength\bin\Debug\02.StringLength.pdb

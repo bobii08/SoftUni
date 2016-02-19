@@ -1,0 +1,11 @@
+D:\Softuni Rules\02.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\06.Palindromes\bin\Debug\06.Palindromes.exe.config
+D:\Softuni Rules\02.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\06.Palindromes\bin\Debug\06.Palindromes.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\06.Palindromes\bin\Debug\06.Palindromes.pdb
+D:\Softuni Rules\02.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\06.Palindromes\obj\Debug\06.Palindromes.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\06.Palindromes\obj\Debug\06.Palindromes.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\06.Palindromes\bin\Debug\06.Palindromes.exe.config
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\06.Palindromes\obj\Debug\06.Palindromes.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\06.Palindromes\obj\Debug\06.Palindromes.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\06.Palindromes\bin\Debug\06.Palindromes.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\06.Palindromes\bin\Debug\06.Palindromes.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\06.Palindromes\obj\Debug\06.Palindromes.csprojResolveAssemblyReference.cache

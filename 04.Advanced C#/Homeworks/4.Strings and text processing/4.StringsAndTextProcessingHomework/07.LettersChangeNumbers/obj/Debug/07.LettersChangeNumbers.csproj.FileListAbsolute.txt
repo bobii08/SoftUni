@@ -1,0 +1,12 @@
+D:\Softuni Rules\02.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\07.LettersChangeNumbers\bin\Debug\07.LettersChangeNumbers.exe.config
+D:\Softuni Rules\02.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\07.LettersChangeNumbers\bin\Debug\07.LettersChangeNumbers.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\07.LettersChangeNumbers\bin\Debug\07.LettersChangeNumbers.pdb
+D:\Softuni Rules\02.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\07.LettersChangeNumbers\obj\Debug\07.LettersChangeNumbers.csprojResolveAssemblyReference.cache
+D:\Softuni Rules\02.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\07.LettersChangeNumbers\obj\Debug\07.LettersChangeNumbers.exe
+D:\Softuni Rules\02.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\07.LettersChangeNumbers\obj\Debug\07.LettersChangeNumbers.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\07.LettersChangeNumbers\bin\Debug\07.LettersChangeNumbers.exe.config
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\07.LettersChangeNumbers\obj\Debug\07.LettersChangeNumbers.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\07.LettersChangeNumbers\obj\Debug\07.LettersChangeNumbers.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\07.LettersChangeNumbers\obj\Debug\07.LettersChangeNumbers.csprojResolveAssemblyReference.cache
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\07.LettersChangeNumbers\bin\Debug\07.LettersChangeNumbers.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\07.LettersChangeNumbers\bin\Debug\07.LettersChangeNumbers.pdb

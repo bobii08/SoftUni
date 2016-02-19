@@ -1,0 +1,6 @@
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\5.Regular expressions\5.RegularExpressionsHomework\05.ValidUsernames\bin\Debug\05.ValidUsernames.exe.config
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\5.Regular expressions\5.RegularExpressionsHomework\05.ValidUsernames\bin\Debug\05.ValidUsernames.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\5.Regular expressions\5.RegularExpressionsHomework\05.ValidUsernames\bin\Debug\05.ValidUsernames.pdb
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\5.Regular expressions\5.RegularExpressionsHomework\05.ValidUsernames\obj\Debug\05.ValidUsernames.csprojResolveAssemblyReference.cache
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\5.Regular expressions\5.RegularExpressionsHomework\05.ValidUsernames\obj\Debug\05.ValidUsernames.exe
+D:\myrepo\SoftUni\04.Advanced C#\Homeworks\5.Regular expressions\5.RegularExpressionsHomework\05.ValidUsernames\obj\Debug\05.ValidUsernames.pdb
