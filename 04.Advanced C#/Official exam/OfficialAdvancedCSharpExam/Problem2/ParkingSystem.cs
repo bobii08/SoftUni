@@ -1,6 +1,7 @@
 ﻿namespace Problem2
 {
     using System;
+    using System.Collections.Generic;
     using System.Linq;
 
     internal class ParkingSystem
@@ -15,9 +16,7 @@
             int rows = rowAndCol[0];
             int cols = rowAndCol[1];
             bool[,] matrix = new bool[rows, cols];
-            //string line = Console.ReadLine();
 
-            // int[] arr = new int[(cols - 1) * 2];
             int[] arr = new int[cols * 2];
             int currentNum = 1;
             for (int i = 0; i < arr.Length - 1; i += 2)
@@ -28,6 +27,7 @@
             }
 
             int currentMoves = 0;
+            Dictionary<int, List<int>> takendRowsAndCols = new Dictionary<int, List<int>>();
             while (true)
             {
                 string line = Console.ReadLine();
@@ -35,29 +35,19 @@
                 {
                     break;
                 }
+
                 string[] args = line.Split(new[] { ' ', '\t', '\n' }, StringSplitOptions.RemoveEmptyEntries);
                 int z = int.Parse(args[0]);
                 int x = int.Parse(args[1]);
                 int y = int.Parse(args[2]);
-                //currentMoves = Math.Abs(x - z) + 1;
-                if (x > z)
+                currentMoves = Math.Abs(x - z) + 1;
+
+                if (!takendRowsAndCols.ContainsKey(x))
                 {
-                    currentMoves = x - z + 1;
-                }
-                if (z > x)
-                {
-                    currentMoves = z - x + 1;
-                }
-                if (x == z)
-                {
-                    currentMoves = 1;
-                }
-                //y > 0 && y < matrix.GetLength(1) && x > 0 && x < matrix.GetLength(0) && 
-                if ((y > 0 && y < matrix.GetLength(1)) && (x >= 0 && x < matrix.GetLength(0)) && !matrix[x, y])
-                {
+                    takendRowsAndCols[x] = new List<int>();
+                    takendRowsAndCols[x].Add(y);
                     currentMoves += y;
                     Console.WriteLine(currentMoves);
-                    matrix[x, y] = true;
                 }
                 else
                 {
@@ -67,7 +57,6 @@
                     bool even = true;
                     while (true)
                     {
-                        //int curentY = y + arr[index];
                         int curentY = 0;
                         if (even)
                         {
@@ -82,14 +71,13 @@
                             updIndex++;
                         }
 
-                        if (curentY > 0 && curentY < matrix.GetLength(1))
+                        if (curentY > 0 && curentY < cols)
                         {
-                            if (!matrix[x, curentY])
+                            if (!takendRowsAndCols[x].Contains(y))
                             {
-                                currentMoves += curentY;
-                                matrix[x, curentY] = true;
+                                takendRowsAndCols[x].Add(y);
+                                currentMoves += y;
                                 Console.WriteLine(currentMoves);
-                                break;   
                             }
                         }
 
@@ -101,8 +89,6 @@
                         }
                     }
                 }
-
-                //line = Console.ReadLine();
             }
         }
     }

@@ -1,0 +1,24 @@
+﻿namespace BoatRacingSimulator.Utility
+{
+    using System;
+
+    public static class Validator
+    {
+        public static void ValidatePositivePropertyValue(int value, string propertyName)
+        {
+            if (value <= 0)
+            {
+                throw new ArgumentException(
+                    string.Format(Constants.IncorrectPositivePropertyValueMessage, propertyName));
+            }
+        }
+
+        public static void ValidateModelLength(string value, int minModelLength)
+        {
+            if (value.Length < minModelLength)
+            {
+                throw new ArgumentException(string.Format(Constants.IncorrectModelLenghtMessage, minModelLength));
+            }
+        }
+    }
+}

@@ -44,7 +44,7 @@
                         if (validResources.Contains(args[0]))
                         {
                             bools[currentPos] = true;
-                            currentResources += ulong.Parse(args[1].ToString());
+                            currentResources += ulong.Parse(args[1]);
                         }
                     }
                     else
@@ -63,28 +63,5 @@
 
             Console.WriteLine(maxResources);
         }
-
-        // Console.SetIn(new StreamReader(Console.OpenStandardInput(8192)));
-
-        //private static void ExecuteCommand(string[] commandArgs, List<string> collection)
-        //{
-        //    string operation = commandArgs[0];
-
-        //    switch (operation)
-        //    {
-        //        case "reverse":
-        //            ExecuteReverseCommand(commandArgs, collection);
-        //            break;
-        //        case "sort":
-        //            ExecuteSortCommand(commandArgs, collection);
-        //            break;
-        //        case "rollLeft":
-        //            ExecuteRollLeftCommand(commandArgs, collection);
-        //            break;
-        //        case "rollRight":
-        //            ExecuteRollRightCommand(commandArgs, collection);
-        //            break;
-        //    }
-        //}
     }
 }
