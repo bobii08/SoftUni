@@ -1,6 +1,0 @@
-D:\Softuni Rules\02.OOP\Homeworks\4.Inheritance and abstraction\4.InheritanceAndAbstractionHomework\02.Animals\bin\Debug\02.Animals.exe.config
-D:\Softuni Rules\02.OOP\Homeworks\4.Inheritance and abstraction\4.InheritanceAndAbstractionHomework\02.Animals\bin\Debug\02.Animals.exe
-D:\Softuni Rules\02.OOP\Homeworks\4.Inheritance and abstraction\4.InheritanceAndAbstractionHomework\02.Animals\bin\Debug\02.Animals.pdb
-D:\Softuni Rules\02.OOP\Homeworks\4.Inheritance and abstraction\4.InheritanceAndAbstractionHomework\02.Animals\obj\Debug\02.Animals.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\02.OOP\Homeworks\4.Inheritance and abstraction\4.InheritanceAndAbstractionHomework\02.Animals\obj\Debug\02.Animals.exe
-D:\Softuni Rules\02.OOP\Homeworks\4.Inheritance and abstraction\4.InheritanceAndAbstractionHomework\02.Animals\obj\Debug\02.Animals.pdb

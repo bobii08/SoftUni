@@ -1,6 +1,0 @@
-D:\Softuni Rules\02.OOP\Homeworks\2.Static members and namespaces\2.StaticMembersAndNamespacesHomework\01.Point3D\bin\Debug\01.Point3D.exe.config
-D:\Softuni Rules\02.OOP\Homeworks\2.Static members and namespaces\2.StaticMembersAndNamespacesHomework\01.Point3D\bin\Debug\01.Point3D.exe
-D:\Softuni Rules\02.OOP\Homeworks\2.Static members and namespaces\2.StaticMembersAndNamespacesHomework\01.Point3D\bin\Debug\01.Point3D.pdb
-D:\Softuni Rules\02.OOP\Homeworks\2.Static members and namespaces\2.StaticMembersAndNamespacesHomework\01.Point3D\obj\Debug\01.Point3D.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\02.OOP\Homeworks\2.Static members and namespaces\2.StaticMembersAndNamespacesHomework\01.Point3D\obj\Debug\01.Point3D.exe
-D:\Softuni Rules\02.OOP\Homeworks\2.Static members and namespaces\2.StaticMembersAndNamespacesHomework\01.Point3D\obj\Debug\01.Point3D.pdb

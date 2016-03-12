@@ -1,5 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\09.ExtractUrlsFromText\bin\Debug\09.ExtractUrlsFromText.exe.config
-D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\09.ExtractUrlsFromText\bin\Debug\09.ExtractUrlsFromText.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\09.ExtractUrlsFromText\bin\Debug\09.ExtractUrlsFromText.pdb
-D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\09.ExtractUrlsFromText\obj\Debug\09.ExtractUrlsFromText.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\09.ExtractUrlsFromText\obj\Debug\09.ExtractUrlsFromText.pdb

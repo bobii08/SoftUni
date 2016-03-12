@@ -1,5 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe.config
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.pdb
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.pdb

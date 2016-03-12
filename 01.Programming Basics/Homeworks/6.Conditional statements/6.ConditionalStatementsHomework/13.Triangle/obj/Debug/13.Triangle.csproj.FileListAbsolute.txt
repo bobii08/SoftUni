@@ -1,5 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\13.Triangle\bin\Debug\13.Triangle.exe.config
-D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\13.Triangle\bin\Debug\13.Triangle.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\13.Triangle\bin\Debug\13.Triangle.pdb
-D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\13.Triangle\obj\Debug\13.Triangle.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\13.Triangle\obj\Debug\13.Triangle.pdb

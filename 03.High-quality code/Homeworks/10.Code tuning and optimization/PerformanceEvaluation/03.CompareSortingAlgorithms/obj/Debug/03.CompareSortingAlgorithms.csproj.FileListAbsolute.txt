@@ -1,6 +1,0 @@
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\10.Code tuning and optimization\PerformanceEvaluation\03.CompareSortingAlgorithms\bin\Debug\03.CompareSortingAlgorithms.exe.config
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\10.Code tuning and optimization\PerformanceEvaluation\03.CompareSortingAlgorithms\bin\Debug\03.CompareSortingAlgorithms.exe
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\10.Code tuning and optimization\PerformanceEvaluation\03.CompareSortingAlgorithms\bin\Debug\03.CompareSortingAlgorithms.pdb
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\10.Code tuning and optimization\PerformanceEvaluation\03.CompareSortingAlgorithms\obj\Debug\03.CompareSortingAlgorithms.csprojResolveAssemblyReference.cache
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\10.Code tuning and optimization\PerformanceEvaluation\03.CompareSortingAlgorithms\obj\Debug\03.CompareSortingAlgorithms.exe
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\10.Code tuning and optimization\PerformanceEvaluation\03.CompareSortingAlgorithms\obj\Debug\03.CompareSortingAlgorithms.pdb

@@ -1,5 +1,0 @@
-D:\Softuni Rules\Programming Basics\Homeworks\4.Console input and output\4.ConsoleInputAndOutputHomework\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe.config
-D:\Softuni Rules\Programming Basics\Homeworks\4.Console input and output\4.ConsoleInputAndOutputHomework\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe
-D:\Softuni Rules\Programming Basics\Homeworks\4.Console input and output\4.ConsoleInputAndOutputHomework\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.pdb
-D:\Softuni Rules\Programming Basics\Homeworks\4.Console input and output\4.ConsoleInputAndOutputHomework\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.exe
-D:\Softuni Rules\Programming Basics\Homeworks\4.Console input and output\4.ConsoleInputAndOutputHomework\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.pdb

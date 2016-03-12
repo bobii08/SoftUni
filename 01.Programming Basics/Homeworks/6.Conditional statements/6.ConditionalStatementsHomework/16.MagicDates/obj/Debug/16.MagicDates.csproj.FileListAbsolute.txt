@@ -1,5 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\16.MagicDates\bin\Debug\16.MagicDates.exe.config
-D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\16.MagicDates\bin\Debug\16.MagicDates.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\16.MagicDates\bin\Debug\16.MagicDates.pdb
-D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\16.MagicDates\obj\Debug\16.MagicDates.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\16.MagicDates\obj\Debug\16.MagicDates.pdb

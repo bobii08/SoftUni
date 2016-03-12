@@ -1,5 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\02.C# Basics Exam 10 April 2014 Evening\Examp10April2014Evening\3.Eclipse\bin\Debug\3.Eclipse.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\02.C# Basics Exam 10 April 2014 Evening\Examp10April2014Evening\3.Eclipse\bin\Debug\3.Eclipse.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\02.C# Basics Exam 10 April 2014 Evening\Examp10April2014Evening\3.Eclipse\bin\Debug\3.Eclipse.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\02.C# Basics Exam 10 April 2014 Evening\Examp10April2014Evening\3.Eclipse\obj\Debug\3.Eclipse.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\02.C# Basics Exam 10 April 2014 Evening\Examp10April2014Evening\3.Eclipse\obj\Debug\3.Eclipse.pdb

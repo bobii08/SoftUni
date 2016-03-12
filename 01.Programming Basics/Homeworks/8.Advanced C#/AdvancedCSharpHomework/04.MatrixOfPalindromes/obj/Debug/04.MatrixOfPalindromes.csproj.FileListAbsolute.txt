@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\04.MatrixOfPalindromes\bin\Debug\04.MatrixOfPalindromes.exe.config
-D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\04.MatrixOfPalindromes\bin\Debug\04.MatrixOfPalindromes.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\04.MatrixOfPalindromes\bin\Debug\04.MatrixOfPalindromes.pdb
-D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\04.MatrixOfPalindromes\obj\Debug\04.MatrixOfPalindromes.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\04.MatrixOfPalindromes\obj\Debug\04.MatrixOfPalindromes.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\04.MatrixOfPalindromes\obj\Debug\04.MatrixOfPalindromes.pdb

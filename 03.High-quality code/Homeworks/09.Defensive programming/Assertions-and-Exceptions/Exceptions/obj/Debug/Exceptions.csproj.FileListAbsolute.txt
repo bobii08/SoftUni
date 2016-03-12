@@ -1,7 +1,0 @@
-D:\Softuni Rules\JSF\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\09.Defensive programming\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.exe
-D:\Softuni Rules\JSF\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\09.Defensive programming\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.pdb
-D:\Softuni Rules\JSF\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\09.Defensive programming\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.exe
-D:\Softuni Rules\JSF\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\09.Defensive programming\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.pdb
-D:\Softuni Rules\JSF\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\09.Defensive programming\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\09.Defensive programming\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.exe
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\09.Defensive programming\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.pdb

@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\3.Car\bin\Debug\3.Car.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\3.Car\bin\Debug\3.Car.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\3.Car\bin\Debug\3.Car.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\3.Car\obj\Debug\3.Car.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\3.Car\obj\Debug\3.Car.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\3.Car\obj\Debug\3.Car.pdb

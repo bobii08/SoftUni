@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\02.C# Basics Exam 10 April 2014 Evening\Examp10April2014Evening\2.OddEvenSum\bin\Debug\2.OddEvenSum.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\02.C# Basics Exam 10 April 2014 Evening\Examp10April2014Evening\2.OddEvenSum\bin\Debug\2.OddEvenSum.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\02.C# Basics Exam 10 April 2014 Evening\Examp10April2014Evening\2.OddEvenSum\bin\Debug\2.OddEvenSum.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\02.C# Basics Exam 10 April 2014 Evening\Examp10April2014Evening\2.OddEvenSum\obj\Debug\2.OddEvenSum.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Exam preparation\02.C# Basics Exam 10 April 2014 Evening\Examp10April2014Evening\2.OddEvenSum\obj\Debug\2.OddEvenSum.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\02.C# Basics Exam 10 April 2014 Evening\Examp10April2014Evening\2.OddEvenSum\obj\Debug\2.OddEvenSum.pdb

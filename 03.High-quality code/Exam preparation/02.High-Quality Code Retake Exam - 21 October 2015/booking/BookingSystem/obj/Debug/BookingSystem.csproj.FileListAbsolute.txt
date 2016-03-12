@@ -1,7 +1,0 @@
-D:\myrepo\SoftUni\03.Hiqh-quality code\Exam preparation\02.High-Quality Code Retake Exam - 21 October 2015\booking\booking\bin\Debug\BookingSystem.exe.config
-D:\myrepo\SoftUni\03.Hiqh-quality code\Exam preparation\02.High-Quality Code Retake Exam - 21 October 2015\booking\BookingSystem\bin\Debug\BookingSystem.exe.config
-D:\myrepo\SoftUni\03.Hiqh-quality code\Exam preparation\02.High-Quality Code Retake Exam - 21 October 2015\booking\BookingSystem\obj\Debug\BookingSystem.csprojResolveAssemblyReference.cache
-D:\myrepo\SoftUni\03.Hiqh-quality code\Exam preparation\02.High-Quality Code Retake Exam - 21 October 2015\booking\BookingSystem\bin\Debug\BookingSystem.exe
-D:\myrepo\SoftUni\03.Hiqh-quality code\Exam preparation\02.High-Quality Code Retake Exam - 21 October 2015\booking\BookingSystem\bin\Debug\BookingSystem.pdb
-D:\myrepo\SoftUni\03.Hiqh-quality code\Exam preparation\02.High-Quality Code Retake Exam - 21 October 2015\booking\BookingSystem\obj\Debug\BookingSystem.exe
-D:\myrepo\SoftUni\03.Hiqh-quality code\Exam preparation\02.High-Quality Code Retake Exam - 21 October 2015\booking\BookingSystem\obj\Debug\BookingSystem.pdb

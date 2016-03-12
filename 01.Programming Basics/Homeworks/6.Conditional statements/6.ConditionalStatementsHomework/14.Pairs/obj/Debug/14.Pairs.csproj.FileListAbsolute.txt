@@ -1,5 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\14.Pairs\bin\Debug\14.Pairs.exe.config
-D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\14.Pairs\bin\Debug\14.Pairs.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\14.Pairs\bin\Debug\14.Pairs.pdb
-D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\14.Pairs\obj\Debug\14.Pairs.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\14.Pairs\obj\Debug\14.Pairs.pdb

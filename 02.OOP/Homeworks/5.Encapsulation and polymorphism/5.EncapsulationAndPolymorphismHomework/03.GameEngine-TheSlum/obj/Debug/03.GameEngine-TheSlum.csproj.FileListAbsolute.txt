@@ -1,6 +1,0 @@
-D:\Softuni Rules\02.OOP\Homeworks\5.Encapsulation and polymorphism\5.EncapsulationAndPolymorphismHomework\03.GameEngine-TheSlum\bin\Debug\03.GameEngine-TheSlum.exe.config
-D:\Softuni Rules\02.OOP\Homeworks\5.Encapsulation and polymorphism\5.EncapsulationAndPolymorphismHomework\03.GameEngine-TheSlum\obj\Debug\03.GameEngine-TheSlum.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\02.OOP\Homeworks\5.Encapsulation and polymorphism\5.EncapsulationAndPolymorphismHomework\03.GameEngine-TheSlum\bin\Debug\03.GameEngine-TheSlum.exe
-D:\Softuni Rules\02.OOP\Homeworks\5.Encapsulation and polymorphism\5.EncapsulationAndPolymorphismHomework\03.GameEngine-TheSlum\bin\Debug\03.GameEngine-TheSlum.pdb
-D:\Softuni Rules\02.OOP\Homeworks\5.Encapsulation and polymorphism\5.EncapsulationAndPolymorphismHomework\03.GameEngine-TheSlum\obj\Debug\03.GameEngine-TheSlum.exe
-D:\Softuni Rules\02.OOP\Homeworks\5.Encapsulation and polymorphism\5.EncapsulationAndPolymorphismHomework\03.GameEngine-TheSlum\obj\Debug\03.GameEngine-TheSlum.pdb

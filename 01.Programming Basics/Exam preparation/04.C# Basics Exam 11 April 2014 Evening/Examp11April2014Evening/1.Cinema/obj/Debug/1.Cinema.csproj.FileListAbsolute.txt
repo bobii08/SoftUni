@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\04.C# Basics Exam 11 April 2014 Evening\Examp11April2014Evening\1.Cinema\bin\Debug\1.Cinema.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\04.C# Basics Exam 11 April 2014 Evening\Examp11April2014Evening\1.Cinema\bin\Debug\1.Cinema.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\04.C# Basics Exam 11 April 2014 Evening\Examp11April2014Evening\1.Cinema\bin\Debug\1.Cinema.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\04.C# Basics Exam 11 April 2014 Evening\Examp11April2014Evening\1.Cinema\obj\Debug\1.Cinema.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Exam preparation\04.C# Basics Exam 11 April 2014 Evening\Examp11April2014Evening\1.Cinema\obj\Debug\1.Cinema.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\04.C# Basics Exam 11 April 2014 Evening\Examp11April2014Evening\1.Cinema\obj\Debug\1.Cinema.pdb

@@ -1,6 +1,0 @@
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe.config
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb

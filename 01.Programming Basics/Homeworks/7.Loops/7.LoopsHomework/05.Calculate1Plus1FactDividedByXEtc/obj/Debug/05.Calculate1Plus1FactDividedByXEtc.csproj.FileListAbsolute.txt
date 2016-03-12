@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\05.Calculate1Plus1FactDividedByXEtc\bin\Debug\05.Calculate1Plus1FactDividedByXEtc.exe.config
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\05.Calculate1Plus1FactDividedByXEtc\obj\Debug\05.Calculate1Plus1FactDividedByXEtc.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\05.Calculate1Plus1FactDividedByXEtc\bin\Debug\05.Calculate1Plus1FactDividedByXEtc.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\05.Calculate1Plus1FactDividedByXEtc\bin\Debug\05.Calculate1Plus1FactDividedByXEtc.pdb
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\05.Calculate1Plus1FactDividedByXEtc\obj\Debug\05.Calculate1Plus1FactDividedByXEtc.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\05.Calculate1Plus1FactDividedByXEtc\obj\Debug\05.Calculate1Plus1FactDividedByXEtc.pdb

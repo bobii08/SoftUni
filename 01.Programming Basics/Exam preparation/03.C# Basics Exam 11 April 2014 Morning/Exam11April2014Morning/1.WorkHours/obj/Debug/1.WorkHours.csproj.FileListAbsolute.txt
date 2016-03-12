@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\1.WorkHours\bin\Debug\1.WorkHours.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\1.WorkHours\bin\Debug\1.WorkHours.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\1.WorkHours\bin\Debug\1.WorkHours.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\1.WorkHours\obj\Debug\1.WorkHours.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\1.WorkHours\obj\Debug\1.WorkHours.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\1.WorkHours\obj\Debug\1.WorkHours.pdb

@@ -1,5 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.exe.config
-D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.pdb
-D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.pdb

@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\4.MorseCodeNumbers\bin\Debug\4.MorseCodeNumbers.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\4.MorseCodeNumbers\bin\Debug\4.MorseCodeNumbers.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\4.MorseCodeNumbers\bin\Debug\4.MorseCodeNumbers.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\4.MorseCodeNumbers\obj\Debug\4.MorseCodeNumbers.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\4.MorseCodeNumbers\obj\Debug\4.MorseCodeNumbers.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\11.C# Basics Exam 25 July 2014 Morning\Exam25July2014Morning\4.MorseCodeNumbers\obj\Debug\4.MorseCodeNumbers.pdb

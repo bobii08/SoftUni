@@ -1,6 +1,0 @@
-D:\Softuni Rules\02.OOP\Exam preparation\04.OOP Exam - 19 Jan 2015\2.MyTunesShop\MyTunesShop-Skeleton\MyTunesShop\bin\Debug\MyTunesShop.exe.config
-D:\Softuni Rules\02.OOP\Exam preparation\04.OOP Exam - 19 Jan 2015\2.MyTunesShop\MyTunesShop-Skeleton\MyTunesShop\obj\Debug\MyTunesShop.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\02.OOP\Exam preparation\04.OOP Exam - 19 Jan 2015\2.MyTunesShop\MyTunesShop-Skeleton\MyTunesShop\bin\Debug\MyTunesShop.exe
-D:\Softuni Rules\02.OOP\Exam preparation\04.OOP Exam - 19 Jan 2015\2.MyTunesShop\MyTunesShop-Skeleton\MyTunesShop\bin\Debug\MyTunesShop.pdb
-D:\Softuni Rules\02.OOP\Exam preparation\04.OOP Exam - 19 Jan 2015\2.MyTunesShop\MyTunesShop-Skeleton\MyTunesShop\obj\Debug\MyTunesShop.exe
-D:\Softuni Rules\02.OOP\Exam preparation\04.OOP Exam - 19 Jan 2015\2.MyTunesShop\MyTunesShop-Skeleton\MyTunesShop\obj\Debug\MyTunesShop.pdb

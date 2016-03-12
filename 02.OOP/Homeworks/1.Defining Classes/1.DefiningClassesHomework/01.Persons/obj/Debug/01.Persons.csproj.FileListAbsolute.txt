@@ -1,6 +1,0 @@
-D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\01.Persons\bin\Debug\01.Persons.exe.config
-D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\01.Persons\bin\Debug\01.Persons.exe
-D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\01.Persons\bin\Debug\01.Persons.pdb
-D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\01.Persons\obj\Debug\01.Persons.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\01.Persons\obj\Debug\01.Persons.exe
-D:\Softuni Rules\02.OOP\Homeworks\1.Defining Classes\1.DefiningClassesHomework\01.Persons\obj\Debug\01.Persons.pdb

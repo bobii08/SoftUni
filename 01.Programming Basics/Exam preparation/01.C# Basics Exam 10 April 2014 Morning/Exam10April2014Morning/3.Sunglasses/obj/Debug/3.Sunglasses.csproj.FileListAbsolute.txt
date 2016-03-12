@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\01.C# Basics Exam 10 April 2014 Morning\Exam10April2014Morning\3.Sunglasses\bin\Debug\3.Sunglasses.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\01.C# Basics Exam 10 April 2014 Morning\Exam10April2014Morning\3.Sunglasses\bin\Debug\3.Sunglasses.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\01.C# Basics Exam 10 April 2014 Morning\Exam10April2014Morning\3.Sunglasses\bin\Debug\3.Sunglasses.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\01.C# Basics Exam 10 April 2014 Morning\Exam10April2014Morning\3.Sunglasses\obj\Debug\3.Sunglasses.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Exam preparation\01.C# Basics Exam 10 April 2014 Morning\Exam10April2014Morning\3.Sunglasses\obj\Debug\3.Sunglasses.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\01.C# Basics Exam 10 April 2014 Morning\Exam10April2014Morning\3.Sunglasses\obj\Debug\3.Sunglasses.pdb

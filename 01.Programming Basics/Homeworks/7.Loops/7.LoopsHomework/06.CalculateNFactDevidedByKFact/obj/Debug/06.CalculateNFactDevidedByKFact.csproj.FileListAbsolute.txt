@@ -1,5 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\06.CalculateNFactDevidedByKFact\bin\Debug\06.CalculateNFactDevidedByKFact.exe.config
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\06.CalculateNFactDevidedByKFact\bin\Debug\06.CalculateNFactDevidedByKFact.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\06.CalculateNFactDevidedByKFact\bin\Debug\06.CalculateNFactDevidedByKFact.pdb
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\06.CalculateNFactDevidedByKFact\obj\Debug\06.CalculateNFactDevidedByKFact.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\06.CalculateNFactDevidedByKFact\obj\Debug\06.CalculateNFactDevidedByKFact.pdb

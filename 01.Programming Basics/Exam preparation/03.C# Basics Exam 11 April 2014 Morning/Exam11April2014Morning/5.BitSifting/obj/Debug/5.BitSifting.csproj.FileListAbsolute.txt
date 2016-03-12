@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\5.BitSifting\bin\Debug\5.BitSifting.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\5.BitSifting\bin\Debug\5.BitSifting.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\5.BitSifting\bin\Debug\5.BitSifting.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\5.BitSifting\obj\Debug\5.BitSifting.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\5.BitSifting\obj\Debug\5.BitSifting.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\03.C# Basics Exam 11 April 2014 Morning\Exam11April2014Morning\5.BitSifting\obj\Debug\5.BitSifting.pdb

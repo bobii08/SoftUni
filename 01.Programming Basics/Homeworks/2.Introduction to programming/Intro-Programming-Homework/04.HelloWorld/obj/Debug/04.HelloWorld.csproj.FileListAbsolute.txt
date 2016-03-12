@@ -1,9 +1,0 @@
-C:\Users\lyubo\Desktop\Intro-Programming-Homework\04.HelloWorld\bin\Debug\04.HelloWorld.exe.config
-C:\Users\lyubo\Desktop\Intro-Programming-Homework\04.HelloWorld\bin\Debug\04.HelloWorld.exe
-C:\Users\lyubo\Desktop\Intro-Programming-Homework\04.HelloWorld\bin\Debug\04.HelloWorld.pdb
-C:\Users\lyubo\Desktop\Intro-Programming-Homework\04.HelloWorld\obj\Debug\04.HelloWorld.csprojResolveAssemblyReference.cache
-C:\Users\lyubo\Desktop\Intro-Programming-Homework\04.HelloWorld\obj\Debug\04.HelloWorld.exe
-C:\Users\lyubo\Desktop\Intro-Programming-Homework\04.HelloWorld\obj\Debug\04.HelloWorld.pdb
-D:\Softuni Rules\Programming Basics\Homeworks\2.Introduction to programming\Intro-Programming-Homework\04.HelloWorld\bin\Debug\04.HelloWorld.exe.config
-D:\Softuni Rules\Programming Basics\Homeworks\2.Introduction to programming\Intro-Programming-Homework\04.HelloWorld\obj\Debug\04.HelloWorld.exe
-D:\Softuni Rules\Programming Basics\Homeworks\2.Introduction to programming\Intro-Programming-Homework\04.HelloWorld\obj\Debug\04.HelloWorld.pdb

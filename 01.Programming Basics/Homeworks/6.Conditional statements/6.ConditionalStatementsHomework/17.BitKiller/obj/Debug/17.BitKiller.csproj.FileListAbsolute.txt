@@ -1,5 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\17.BitKiller\bin\Debug\17.BitKiller.exe.config
-D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\17.BitKiller\bin\Debug\17.BitKiller.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\17.BitKiller\bin\Debug\17.BitKiller.pdb
-D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\17.BitKiller\obj\Debug\17.BitKiller.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\6.Conditional statements\6.ConditionalStatementsHomework\17.BitKiller\obj\Debug\17.BitKiller.pdb

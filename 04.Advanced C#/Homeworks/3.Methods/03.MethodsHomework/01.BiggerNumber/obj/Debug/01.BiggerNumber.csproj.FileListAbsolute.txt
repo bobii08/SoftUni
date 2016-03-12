@@ -1,9 +1,0 @@
-D:\Softuni Rules\02.Advanced C#\Homeworks\3.Methods\03.MethodsHomework\01.BiggerNumber\bin\Debug\01.BiggerNumber.exe.config
-D:\Softuni Rules\02.Advanced C#\Homeworks\3.Methods\03.MethodsHomework\01.BiggerNumber\bin\Debug\01.BiggerNumber.exe
-D:\Softuni Rules\02.Advanced C#\Homeworks\3.Methods\03.MethodsHomework\01.BiggerNumber\bin\Debug\01.BiggerNumber.pdb
-D:\Softuni Rules\02.Advanced C#\Homeworks\3.Methods\03.MethodsHomework\01.BiggerNumber\obj\Debug\01.BiggerNumber.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\02.Advanced C#\Homeworks\3.Methods\03.MethodsHomework\01.BiggerNumber\obj\Debug\01.BiggerNumber.exe
-D:\Softuni Rules\02.Advanced C#\Homeworks\3.Methods\03.MethodsHomework\01.BiggerNumber\obj\Debug\01.BiggerNumber.pdb
-D:\myrepo\SoftUni\04.Advanced C#\Homeworks\3.Methods\03.MethodsHomework\01.BiggerNumber\bin\Debug\01.BiggerNumber.exe.config
-D:\myrepo\SoftUni\04.Advanced C#\Homeworks\3.Methods\03.MethodsHomework\01.BiggerNumber\obj\Debug\01.BiggerNumber.exe
-D:\myrepo\SoftUni\04.Advanced C#\Homeworks\3.Methods\03.MethodsHomework\01.BiggerNumber\obj\Debug\01.BiggerNumber.pdb

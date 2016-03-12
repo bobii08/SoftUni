@@ -1,6 +1,0 @@
-D:\Softuni Rules\02.OOP\Homeworks\6.Other types\6.OtherTypesHomework\02.FractionCalculator\bin\Debug\02.FractionCalculator.exe.config
-D:\Softuni Rules\02.OOP\Homeworks\6.Other types\6.OtherTypesHomework\02.FractionCalculator\bin\Debug\02.FractionCalculator.exe
-D:\Softuni Rules\02.OOP\Homeworks\6.Other types\6.OtherTypesHomework\02.FractionCalculator\bin\Debug\02.FractionCalculator.pdb
-D:\Softuni Rules\02.OOP\Homeworks\6.Other types\6.OtherTypesHomework\02.FractionCalculator\obj\Debug\02.FractionCalculator.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\02.OOP\Homeworks\6.Other types\6.OtherTypesHomework\02.FractionCalculator\obj\Debug\02.FractionCalculator.exe
-D:\Softuni Rules\02.OOP\Homeworks\6.Other types\6.OtherTypesHomework\02.FractionCalculator\obj\Debug\02.FractionCalculator.pdb

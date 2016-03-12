@@ -1,7 +1,0 @@
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.Tests.dll
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.Tests.pdb
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.dll
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.pdb
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.csprojResolveAssemblyReference.cache
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.dll
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.pdb

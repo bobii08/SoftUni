@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe.config
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb

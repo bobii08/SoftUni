@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\07.C# Basics Exam 14 April 2014 Morning\Exam14April2014Morning\5.BitShooter\bin\Debug\5.BitShooter.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\07.C# Basics Exam 14 April 2014 Morning\Exam14April2014Morning\5.BitShooter\bin\Debug\5.BitShooter.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\07.C# Basics Exam 14 April 2014 Morning\Exam14April2014Morning\5.BitShooter\bin\Debug\5.BitShooter.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\07.C# Basics Exam 14 April 2014 Morning\Exam14April2014Morning\5.BitShooter\obj\Debug\5.BitShooter.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Exam preparation\07.C# Basics Exam 14 April 2014 Morning\Exam14April2014Morning\5.BitShooter\obj\Debug\5.BitShooter.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\07.C# Basics Exam 14 April 2014 Morning\Exam14April2014Morning\5.BitShooter\obj\Debug\5.BitShooter.pdb

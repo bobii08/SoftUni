@@ -1,5 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.exe.config
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.pdb
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.pdb

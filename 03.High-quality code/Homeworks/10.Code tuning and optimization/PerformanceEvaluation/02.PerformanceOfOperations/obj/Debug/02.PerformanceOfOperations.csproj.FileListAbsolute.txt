@@ -1,6 +1,0 @@
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\10.Code tuning and optimization\PerformanceEvaluation\02.PerformanceOfOperations\bin\Debug\02.PerformanceOfOperations.exe.config
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\10.Code tuning and optimization\PerformanceEvaluation\02.PerformanceOfOperations\bin\Debug\02.PerformanceOfOperations.exe
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\10.Code tuning and optimization\PerformanceEvaluation\02.PerformanceOfOperations\bin\Debug\02.PerformanceOfOperations.pdb
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\10.Code tuning and optimization\PerformanceEvaluation\02.PerformanceOfOperations\obj\Debug\02.PerformanceOfOperations.csprojResolveAssemblyReference.cache
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\10.Code tuning and optimization\PerformanceEvaluation\02.PerformanceOfOperations\obj\Debug\02.PerformanceOfOperations.exe
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\10.Code tuning and optimization\PerformanceEvaluation\02.PerformanceOfOperations\obj\Debug\02.PerformanceOfOperations.pdb

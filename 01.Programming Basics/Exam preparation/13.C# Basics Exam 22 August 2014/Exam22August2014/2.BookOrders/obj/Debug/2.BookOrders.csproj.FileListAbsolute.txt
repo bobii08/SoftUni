@@ -1,5 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\2.BookOrders\bin\Debug\2.BookOrders.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\2.BookOrders\bin\Debug\2.BookOrders.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\2.BookOrders\bin\Debug\2.BookOrders.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\2.BookOrders\obj\Debug\2.BookOrders.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\2.BookOrders\obj\Debug\2.BookOrders.pdb

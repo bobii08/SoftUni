@@ -1,6 +1,0 @@
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe.config
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\13.ComparingFloats\obj\Debug\13.ComparingFloats.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb

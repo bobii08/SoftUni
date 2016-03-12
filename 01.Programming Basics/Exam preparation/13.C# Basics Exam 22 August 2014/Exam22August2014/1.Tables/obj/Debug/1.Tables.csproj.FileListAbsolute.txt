@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\1.Tables\bin\Debug\1.Tables.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\1.Tables\bin\Debug\1.Tables.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\1.Tables\bin\Debug\1.Tables.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\1.Tables\obj\Debug\1.Tables.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\1.Tables\obj\Debug\1.Tables.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\13.C# Basics Exam 22 August 2014\Exam22August2014\1.Tables\obj\Debug\1.Tables.pdb

@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\06.C# Basics Exam 12 April 2014 Evening\Exam12April2014Evening\3.Arrow\bin\Debug\3.Arrow.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\06.C# Basics Exam 12 April 2014 Evening\Exam12April2014Evening\3.Arrow\bin\Debug\3.Arrow.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\06.C# Basics Exam 12 April 2014 Evening\Exam12April2014Evening\3.Arrow\bin\Debug\3.Arrow.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\06.C# Basics Exam 12 April 2014 Evening\Exam12April2014Evening\3.Arrow\obj\Debug\3.Arrow.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\06.C# Basics Exam 12 April 2014 Evening\Exam12April2014Evening\3.Arrow\obj\Debug\3.Arrow.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\06.C# Basics Exam 12 April 2014 Evening\Exam12April2014Evening\3.Arrow\obj\Debug\3.Arrow.csprojResolveAssemblyReference.cache

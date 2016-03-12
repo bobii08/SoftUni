@@ -1,6 +1,0 @@
-D:\Softuni Rules\02.OOP\Homeworks\4.Inheritance and abstraction\4.InheritanceAndAbstractionHomework\03.CompanyHierarchy\bin\Debug\03.CompanyHierarchy.exe.config
-D:\Softuni Rules\02.OOP\Homeworks\4.Inheritance and abstraction\4.InheritanceAndAbstractionHomework\03.CompanyHierarchy\bin\Debug\03.CompanyHierarchy.exe
-D:\Softuni Rules\02.OOP\Homeworks\4.Inheritance and abstraction\4.InheritanceAndAbstractionHomework\03.CompanyHierarchy\bin\Debug\03.CompanyHierarchy.pdb
-D:\Softuni Rules\02.OOP\Homeworks\4.Inheritance and abstraction\4.InheritanceAndAbstractionHomework\03.CompanyHierarchy\obj\Debug\03.CompanyHierarchy.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\02.OOP\Homeworks\4.Inheritance and abstraction\4.InheritanceAndAbstractionHomework\03.CompanyHierarchy\obj\Debug\03.CompanyHierarchy.exe
-D:\Softuni Rules\02.OOP\Homeworks\4.Inheritance and abstraction\4.InheritanceAndAbstractionHomework\03.CompanyHierarchy\obj\Debug\03.CompanyHierarchy.pdb

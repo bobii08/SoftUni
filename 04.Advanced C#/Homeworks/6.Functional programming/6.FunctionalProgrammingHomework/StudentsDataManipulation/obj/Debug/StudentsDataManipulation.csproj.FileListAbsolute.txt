@@ -1,6 +1,0 @@
-D:\myrepo\SoftUni\04.Advanced C#\Homeworks\6.Functional programming\6.FunctionalProgrammingHomework\StudentsDataManipulation\bin\Debug\StudentsDataManipulation.exe.config
-D:\myrepo\SoftUni\04.Advanced C#\Homeworks\6.Functional programming\6.FunctionalProgrammingHomework\StudentsDataManipulation\bin\Debug\StudentsDataManipulation.exe
-D:\myrepo\SoftUni\04.Advanced C#\Homeworks\6.Functional programming\6.FunctionalProgrammingHomework\StudentsDataManipulation\bin\Debug\StudentsDataManipulation.pdb
-D:\myrepo\SoftUni\04.Advanced C#\Homeworks\6.Functional programming\6.FunctionalProgrammingHomework\StudentsDataManipulation\obj\Debug\StudentsDataManipulation.csprojResolveAssemblyReference.cache
-D:\myrepo\SoftUni\04.Advanced C#\Homeworks\6.Functional programming\6.FunctionalProgrammingHomework\StudentsDataManipulation\obj\Debug\StudentsDataManipulation.exe
-D:\myrepo\SoftUni\04.Advanced C#\Homeworks\6.Functional programming\6.FunctionalProgrammingHomework\StudentsDataManipulation\obj\Debug\StudentsDataManipulation.pdb

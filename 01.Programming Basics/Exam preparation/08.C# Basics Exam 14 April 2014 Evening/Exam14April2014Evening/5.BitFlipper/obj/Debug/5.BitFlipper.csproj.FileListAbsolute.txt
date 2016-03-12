@@ -1,5 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\08.C# Basics Exam 14 April 2014 Evening\Exam14April2014Evening\5.BitFlipper\bin\Debug\5.BitFlipper.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\08.C# Basics Exam 14 April 2014 Evening\Exam14April2014Evening\5.BitFlipper\bin\Debug\5.BitFlipper.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\08.C# Basics Exam 14 April 2014 Evening\Exam14April2014Evening\5.BitFlipper\bin\Debug\5.BitFlipper.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\08.C# Basics Exam 14 April 2014 Evening\Exam14April2014Evening\5.BitFlipper\obj\Debug\5.BitFlipper.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\08.C# Basics Exam 14 April 2014 Evening\Exam14April2014Evening\5.BitFlipper\obj\Debug\5.BitFlipper.pdb

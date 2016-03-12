@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\02.C# Basics Exam 10 April 2014 Evening\Examp10April2014Evening\4.HayvanNumbers\bin\Debug\4.HayvanNumbers.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\02.C# Basics Exam 10 April 2014 Evening\Examp10April2014Evening\4.HayvanNumbers\bin\Debug\4.HayvanNumbers.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\02.C# Basics Exam 10 April 2014 Evening\Examp10April2014Evening\4.HayvanNumbers\bin\Debug\4.HayvanNumbers.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\02.C# Basics Exam 10 April 2014 Evening\Examp10April2014Evening\4.HayvanNumbers\obj\Debug\4.HayvanNumbers.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Exam preparation\02.C# Basics Exam 10 April 2014 Evening\Examp10April2014Evening\4.HayvanNumbers\obj\Debug\4.HayvanNumbers.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\02.C# Basics Exam 10 April 2014 Evening\Examp10April2014Evening\4.HayvanNumbers\obj\Debug\4.HayvanNumbers.pdb

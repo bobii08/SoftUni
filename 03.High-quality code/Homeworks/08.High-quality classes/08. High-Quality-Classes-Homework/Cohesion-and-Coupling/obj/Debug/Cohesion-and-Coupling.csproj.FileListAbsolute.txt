@@ -1,7 +1,0 @@
-D:\Softuni Rules\JustSomeFolder\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\08.High-quality classes\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
-D:\Softuni Rules\JustSomeFolder\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\08.High-quality classes\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
-D:\Softuni Rules\JustSomeFolder\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\08.High-quality classes\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\JustSomeFolder\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\08.High-quality classes\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
-D:\Softuni Rules\JustSomeFolder\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\08.High-quality classes\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\08.High-quality classes\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
-D:\myrepo\SoftUni\03.Hiqh-quality code\Homeworks\08.High-quality classes\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb

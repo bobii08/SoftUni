@@ -1,6 +1,0 @@
-D:\Softuni Rules\03.Hiqh-quality code\Homeworks\02.Naming identifiers\02.NamingIdentifiersHomework\01.ManipulateTwoDimensionalArrays\bin\Debug\01.ManipulateTwoDimensionalArrays.exe.config
-D:\Softuni Rules\03.Hiqh-quality code\Homeworks\02.Naming identifiers\02.NamingIdentifiersHomework\01.ManipulateTwoDimensionalArrays\bin\Debug\01.ManipulateTwoDimensionalArrays.exe
-D:\Softuni Rules\03.Hiqh-quality code\Homeworks\02.Naming identifiers\02.NamingIdentifiersHomework\01.ManipulateTwoDimensionalArrays\bin\Debug\01.ManipulateTwoDimensionalArrays.pdb
-D:\Softuni Rules\03.Hiqh-quality code\Homeworks\02.Naming identifiers\02.NamingIdentifiersHomework\01.ManipulateTwoDimensionalArrays\obj\Debug\01.ManipulateTwoDimensionalArrays.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\03.Hiqh-quality code\Homeworks\02.Naming identifiers\02.NamingIdentifiersHomework\01.ManipulateTwoDimensionalArrays\obj\Debug\01.ManipulateTwoDimensionalArrays.exe
-D:\Softuni Rules\03.Hiqh-quality code\Homeworks\02.Naming identifiers\02.NamingIdentifiersHomework\01.ManipulateTwoDimensionalArrays\obj\Debug\01.ManipulateTwoDimensionalArrays.pdb

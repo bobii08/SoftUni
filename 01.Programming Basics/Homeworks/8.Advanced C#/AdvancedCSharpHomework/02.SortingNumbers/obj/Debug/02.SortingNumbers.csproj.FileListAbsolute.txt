@@ -1,5 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\02.SortingNumbers\bin\Debug\02.SortingNumbers.exe.config
-D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\02.SortingNumbers\bin\Debug\02.SortingNumbers.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\02.SortingNumbers\bin\Debug\02.SortingNumbers.pdb
-D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\02.SortingNumbers\obj\Debug\02.SortingNumbers.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\02.SortingNumbers\obj\Debug\02.SortingNumbers.pdb

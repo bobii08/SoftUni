@@ -1,5 +1,0 @@
-D:\Softuni Rules\Programming Basics\Homeworks\4.Console input and output\4.ConsoleInputAndOutputHomework\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
-D:\Softuni Rules\Programming Basics\Homeworks\4.Console input and output\4.ConsoleInputAndOutputHomework\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
-D:\Softuni Rules\Programming Basics\Homeworks\4.Console input and output\4.ConsoleInputAndOutputHomework\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
-D:\Softuni Rules\Programming Basics\Homeworks\4.Console input and output\4.ConsoleInputAndOutputHomework\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
-D:\Softuni Rules\Programming Basics\Homeworks\4.Console input and output\4.ConsoleInputAndOutputHomework\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb

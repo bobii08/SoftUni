@@ -1,5 +1,0 @@
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe.config
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.pdb
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.exe
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.pdb

@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\20.ExamSchedule\bin\Debug\20.ExamSchedule.exe.config
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\20.ExamSchedule\bin\Debug\20.ExamSchedule.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\20.ExamSchedule\bin\Debug\20.ExamSchedule.pdb
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\20.ExamSchedule\obj\Debug\20.ExamSchedule.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\20.ExamSchedule\obj\Debug\20.ExamSchedule.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\20.ExamSchedule\obj\Debug\20.ExamSchedule.pdb

@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\1.Electricity\bin\Debug\1.Electricity.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\1.Electricity\bin\Debug\1.Electricity.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\1.Electricity\bin\Debug\1.Electricity.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\1.Electricity\obj\Debug\1.Electricity.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\1.Electricity\obj\Debug\1.Electricity.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\1.Electricity\obj\Debug\1.Electricity.pdb

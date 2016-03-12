@@ -1,5 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\06.C# Basics Exam 12 April 2014 Evening\Exam12April2014Evening\4.FiveSpecialLetters\bin\Debug\4.FiveSpecialLetters.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\06.C# Basics Exam 12 April 2014 Evening\Exam12April2014Evening\4.FiveSpecialLetters\bin\Debug\4.FiveSpecialLetters.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\06.C# Basics Exam 12 April 2014 Evening\Exam12April2014Evening\4.FiveSpecialLetters\bin\Debug\4.FiveSpecialLetters.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\06.C# Basics Exam 12 April 2014 Evening\Exam12April2014Evening\4.FiveSpecialLetters\obj\Debug\4.FiveSpecialLetters.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\06.C# Basics Exam 12 April 2014 Evening\Exam12April2014Evening\4.FiveSpecialLetters\obj\Debug\4.FiveSpecialLetters.pdb

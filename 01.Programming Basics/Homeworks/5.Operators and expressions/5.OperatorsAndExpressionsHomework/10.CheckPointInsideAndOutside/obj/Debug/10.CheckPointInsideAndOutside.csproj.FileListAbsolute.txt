@@ -1,5 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\10.CheckPointInsideAndOutside\bin\Debug\10.CheckPointInsideAndOutside.exe.config
-D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\10.CheckPointInsideAndOutside\bin\Debug\10.CheckPointInsideAndOutside.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\10.CheckPointInsideAndOutside\bin\Debug\10.CheckPointInsideAndOutside.pdb
-D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\10.CheckPointInsideAndOutside\obj\Debug\10.CheckPointInsideAndOutside.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\10.CheckPointInsideAndOutside\obj\Debug\10.CheckPointInsideAndOutside.pdb

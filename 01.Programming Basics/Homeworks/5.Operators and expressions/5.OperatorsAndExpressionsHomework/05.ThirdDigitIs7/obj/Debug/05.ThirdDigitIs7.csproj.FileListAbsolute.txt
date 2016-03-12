@@ -1,5 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe.config
-D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.pdb
-D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\5.Operators and expressions\5.OperatorsAndExpressionsHomework\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.pdb

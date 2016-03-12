@@ -1,6 +1,0 @@
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe.config
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.pdb
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.exe
-D:\Softuni Rules\Programming Basics\Homeworks\3.Primitive data types and variables\3.PrimitiveDataTypesHomework\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.pdb

@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\07.C# Basics Exam 14 April 2014 Morning\Exam14April2014Morning\4.LongestAlphabeticalWord\bin\Debug\4.LongestAlphabeticalWord.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\07.C# Basics Exam 14 April 2014 Morning\Exam14April2014Morning\4.LongestAlphabeticalWord\bin\Debug\4.LongestAlphabeticalWord.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\07.C# Basics Exam 14 April 2014 Morning\Exam14April2014Morning\4.LongestAlphabeticalWord\bin\Debug\4.LongestAlphabeticalWord.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\07.C# Basics Exam 14 April 2014 Morning\Exam14April2014Morning\4.LongestAlphabeticalWord\obj\Debug\4.LongestAlphabeticalWord.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\07.C# Basics Exam 14 April 2014 Morning\Exam14April2014Morning\4.LongestAlphabeticalWord\obj\Debug\4.LongestAlphabeticalWord.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\07.C# Basics Exam 14 April 2014 Morning\Exam14April2014Morning\4.LongestAlphabeticalWord\obj\Debug\4.LongestAlphabeticalWord.csprojResolveAssemblyReference.cache

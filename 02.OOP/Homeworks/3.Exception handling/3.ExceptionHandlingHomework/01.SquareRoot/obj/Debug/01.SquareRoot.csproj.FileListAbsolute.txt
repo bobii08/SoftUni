@@ -1,6 +1,0 @@
-D:\Softuni Rules\02.OOP\Homeworks\3.Exception handling\3.ExceptionHandlingHomework\01.SquareRoot\bin\Debug\01.SquareRoot.exe.config
-D:\Softuni Rules\02.OOP\Homeworks\3.Exception handling\3.ExceptionHandlingHomework\01.SquareRoot\bin\Debug\01.SquareRoot.exe
-D:\Softuni Rules\02.OOP\Homeworks\3.Exception handling\3.ExceptionHandlingHomework\01.SquareRoot\bin\Debug\01.SquareRoot.pdb
-D:\Softuni Rules\02.OOP\Homeworks\3.Exception handling\3.ExceptionHandlingHomework\01.SquareRoot\obj\Debug\01.SquareRoot.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\02.OOP\Homeworks\3.Exception handling\3.ExceptionHandlingHomework\01.SquareRoot\obj\Debug\01.SquareRoot.exe
-D:\Softuni Rules\02.OOP\Homeworks\3.Exception handling\3.ExceptionHandlingHomework\01.SquareRoot\obj\Debug\01.SquareRoot.pdb

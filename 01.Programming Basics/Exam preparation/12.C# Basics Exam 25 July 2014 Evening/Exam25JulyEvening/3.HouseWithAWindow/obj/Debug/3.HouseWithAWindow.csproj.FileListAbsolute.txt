@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\3.HouseWithAWindow\bin\Debug\3.HouseWithAWindow.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\3.HouseWithAWindow\bin\Debug\3.HouseWithAWindow.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\3.HouseWithAWindow\bin\Debug\3.HouseWithAWindow.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\3.HouseWithAWindow\obj\Debug\3.HouseWithAWindow.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\3.HouseWithAWindow\obj\Debug\3.HouseWithAWindow.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\12.C# Basics Exam 25 July 2014 Evening\Exam25JulyEvening\3.HouseWithAWindow\obj\Debug\3.HouseWithAWindow.pdb

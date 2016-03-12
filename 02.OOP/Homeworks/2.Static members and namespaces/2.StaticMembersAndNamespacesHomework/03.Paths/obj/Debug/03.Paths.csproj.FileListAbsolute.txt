@@ -1,8 +1,0 @@
-D:\Softuni Rules\02.OOP\Homeworks\2.Static members and namespaces\2.StaticMembersAndNamespacesHomework\03.Paths\bin\Debug\03.Paths.exe.config
-D:\Softuni Rules\02.OOP\Homeworks\2.Static members and namespaces\2.StaticMembersAndNamespacesHomework\03.Paths\bin\Debug\03.Paths.exe
-D:\Softuni Rules\02.OOP\Homeworks\2.Static members and namespaces\2.StaticMembersAndNamespacesHomework\03.Paths\bin\Debug\03.Paths.pdb
-D:\Softuni Rules\02.OOP\Homeworks\2.Static members and namespaces\2.StaticMembersAndNamespacesHomework\03.Paths\bin\Debug\01.Point3D.exe
-D:\Softuni Rules\02.OOP\Homeworks\2.Static members and namespaces\2.StaticMembersAndNamespacesHomework\03.Paths\bin\Debug\01.Point3D.pdb
-D:\Softuni Rules\02.OOP\Homeworks\2.Static members and namespaces\2.StaticMembersAndNamespacesHomework\03.Paths\obj\Debug\03.Paths.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\02.OOP\Homeworks\2.Static members and namespaces\2.StaticMembersAndNamespacesHomework\03.Paths\obj\Debug\03.Paths.exe
-D:\Softuni Rules\02.OOP\Homeworks\2.Static members and namespaces\2.StaticMembersAndNamespacesHomework\03.Paths\obj\Debug\03.Paths.pdb

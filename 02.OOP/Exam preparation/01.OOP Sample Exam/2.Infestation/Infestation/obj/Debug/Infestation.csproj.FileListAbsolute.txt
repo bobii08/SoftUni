@@ -1,5 +1,0 @@
-D:\Softuni Rules\02.OOP\Exam preparation\01.OOP Sample Exam\2.Infestation\Infestation\bin\Debug\Infestation.exe
-D:\Softuni Rules\02.OOP\Exam preparation\01.OOP Sample Exam\2.Infestation\Infestation\bin\Debug\Infestation.pdb
-D:\Softuni Rules\02.OOP\Exam preparation\01.OOP Sample Exam\2.Infestation\Infestation\obj\Debug\Infestation.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\02.OOP\Exam preparation\01.OOP Sample Exam\2.Infestation\Infestation\obj\Debug\Infestation.exe
-D:\Softuni Rules\02.OOP\Exam preparation\01.OOP Sample Exam\2.Infestation\Infestation\obj\Debug\Infestation.pdb

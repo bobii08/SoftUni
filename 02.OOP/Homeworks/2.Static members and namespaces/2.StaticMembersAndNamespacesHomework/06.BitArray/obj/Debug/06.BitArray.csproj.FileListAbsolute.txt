@@ -1,6 +1,0 @@
-D:\Softuni Rules\02.OOP\Homeworks\2.Static members and namespaces\2.StaticMembersAndNamespacesHomework\06.BitArray\bin\Debug\06.BitArray.exe.config
-D:\Softuni Rules\02.OOP\Homeworks\2.Static members and namespaces\2.StaticMembersAndNamespacesHomework\06.BitArray\bin\Debug\06.BitArray.exe
-D:\Softuni Rules\02.OOP\Homeworks\2.Static members and namespaces\2.StaticMembersAndNamespacesHomework\06.BitArray\bin\Debug\06.BitArray.pdb
-D:\Softuni Rules\02.OOP\Homeworks\2.Static members and namespaces\2.StaticMembersAndNamespacesHomework\06.BitArray\obj\Debug\06.BitArray.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\02.OOP\Homeworks\2.Static members and namespaces\2.StaticMembersAndNamespacesHomework\06.BitArray\obj\Debug\06.BitArray.exe
-D:\Softuni Rules\02.OOP\Homeworks\2.Static members and namespaces\2.StaticMembersAndNamespacesHomework\06.BitArray\obj\Debug\06.BitArray.pdb

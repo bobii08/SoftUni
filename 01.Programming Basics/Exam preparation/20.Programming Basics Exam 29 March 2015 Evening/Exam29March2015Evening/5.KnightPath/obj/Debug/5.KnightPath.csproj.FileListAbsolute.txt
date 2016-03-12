@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\20.Programming Basics Exam 29 March 2015 Evening\Exam29March2015Evening\5.KnightPath\bin\Debug\5.KnightPath.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\20.Programming Basics Exam 29 March 2015 Evening\Exam29March2015Evening\5.KnightPath\bin\Debug\5.KnightPath.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\20.Programming Basics Exam 29 March 2015 Evening\Exam29March2015Evening\5.KnightPath\bin\Debug\5.KnightPath.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\20.Programming Basics Exam 29 March 2015 Evening\Exam29March2015Evening\5.KnightPath\obj\Debug\5.KnightPath.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Exam preparation\20.Programming Basics Exam 29 March 2015 Evening\Exam29March2015Evening\5.KnightPath\obj\Debug\5.KnightPath.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\20.Programming Basics Exam 29 March 2015 Evening\Exam29March2015Evening\5.KnightPath\obj\Debug\5.KnightPath.pdb

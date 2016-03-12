@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\14.C# Basics Exam 26 August 2014\Exam26August2014\5.X-Bits\bin\Debug\5.X-Bits.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\14.C# Basics Exam 26 August 2014\Exam26August2014\5.X-Bits\bin\Debug\5.X-Bits.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\14.C# Basics Exam 26 August 2014\Exam26August2014\5.X-Bits\bin\Debug\5.X-Bits.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\14.C# Basics Exam 26 August 2014\Exam26August2014\5.X-Bits\obj\Debug\5.X-Bits.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Exam preparation\14.C# Basics Exam 26 August 2014\Exam26August2014\5.X-Bits\obj\Debug\5.X-Bits.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\14.C# Basics Exam 26 August 2014\Exam26August2014\5.X-Bits\obj\Debug\5.X-Bits.pdb

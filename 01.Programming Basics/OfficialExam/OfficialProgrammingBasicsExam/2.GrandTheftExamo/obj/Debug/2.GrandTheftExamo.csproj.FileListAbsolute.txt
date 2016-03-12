@@ -1,6 +1,0 @@
-C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\2.GrandTheftExamo\bin\Debug\2.GrandTheftExamo.exe.config
-C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\2.GrandTheftExamo\bin\Debug\2.GrandTheftExamo.exe
-C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\2.GrandTheftExamo\bin\Debug\2.GrandTheftExamo.pdb
-C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\2.GrandTheftExamo\obj\Debug\2.GrandTheftExamo.csprojResolveAssemblyReference.cache
-C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\2.GrandTheftExamo\obj\Debug\2.GrandTheftExamo.exe
-C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\2.GrandTheftExamo\obj\Debug\2.GrandTheftExamo.pdb

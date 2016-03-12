@@ -1,8 +1,0 @@
-D:\Softuni Rules\02.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\03.CountSubstringOccurences\bin\Debug\03.CountSubstringOccurences.exe.config
-D:\Softuni Rules\02.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\03.CountSubstringOccurences\bin\Debug\03.CountSubstringOccurences.exe
-D:\Softuni Rules\02.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\03.CountSubstringOccurences\bin\Debug\03.CountSubstringOccurences.pdb
-D:\Softuni Rules\02.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\03.CountSubstringOccurences\obj\Debug\03.CountSubstringOccurences.exe
-D:\Softuni Rules\02.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\03.CountSubstringOccurences\obj\Debug\03.CountSubstringOccurences.pdb
-D:\myrepo\SoftUni\04.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\03.CountSubstringOccurences\bin\Debug\03.CountSubstringOccurences.exe.config
-D:\myrepo\SoftUni\04.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\03.CountSubstringOccurences\obj\Debug\03.CountSubstringOccurences.exe
-D:\myrepo\SoftUni\04.Advanced C#\Homeworks\4.Strings and text processing\4.StringsAndTextProcessingHomework\03.CountSubstringOccurences\obj\Debug\03.CountSubstringOccurences.pdb

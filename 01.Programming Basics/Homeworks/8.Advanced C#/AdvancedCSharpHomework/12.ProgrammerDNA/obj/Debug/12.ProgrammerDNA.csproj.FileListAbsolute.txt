@@ -1,5 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\12.ProgrammerDNA\bin\Debug\12.ProgrammerDNA.exe.config
-D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\12.ProgrammerDNA\bin\Debug\12.ProgrammerDNA.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\12.ProgrammerDNA\bin\Debug\12.ProgrammerDNA.pdb
-D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\12.ProgrammerDNA\obj\Debug\12.ProgrammerDNA.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\8.Advanced C#\AdvancedCSharpHomework\12.ProgrammerDNA\obj\Debug\12.ProgrammerDNA.pdb

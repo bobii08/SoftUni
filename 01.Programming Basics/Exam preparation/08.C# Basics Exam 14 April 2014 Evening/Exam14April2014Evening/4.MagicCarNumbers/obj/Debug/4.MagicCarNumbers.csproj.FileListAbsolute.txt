@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\08.C# Basics Exam 14 April 2014 Evening\Exam14April2014Evening\4.MagicCarNumbers\bin\Debug\4.MagicCarNumbers.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\08.C# Basics Exam 14 April 2014 Evening\Exam14April2014Evening\4.MagicCarNumbers\bin\Debug\4.MagicCarNumbers.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\08.C# Basics Exam 14 April 2014 Evening\Exam14April2014Evening\4.MagicCarNumbers\bin\Debug\4.MagicCarNumbers.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\08.C# Basics Exam 14 April 2014 Evening\Exam14April2014Evening\4.MagicCarNumbers\obj\Debug\4.MagicCarNumbers.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Exam preparation\08.C# Basics Exam 14 April 2014 Evening\Exam14April2014Evening\4.MagicCarNumbers\obj\Debug\4.MagicCarNumbers.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\08.C# Basics Exam 14 April 2014 Evening\Exam14April2014Evening\4.MagicCarNumbers\obj\Debug\4.MagicCarNumbers.pdb

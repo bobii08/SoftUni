@@ -1,6 +1,0 @@
-C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\3.PlaidTowel\bin\Debug\3.PlaidTowel.exe.config
-C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\3.PlaidTowel\bin\Debug\3.PlaidTowel.exe
-C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\3.PlaidTowel\bin\Debug\3.PlaidTowel.pdb
-C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\3.PlaidTowel\obj\Debug\3.PlaidTowel.csprojResolveAssemblyReference.cache
-C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\3.PlaidTowel\obj\Debug\3.PlaidTowel.exe
-C:\Users\lyubo\Desktop\OfficialProgrammingBasicsExam\3.PlaidTowel\obj\Debug\3.PlaidTowel.pdb

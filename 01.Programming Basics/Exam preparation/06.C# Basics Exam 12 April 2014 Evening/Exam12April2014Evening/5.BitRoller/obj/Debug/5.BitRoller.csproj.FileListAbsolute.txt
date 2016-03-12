@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\06.C# Basics Exam 12 April 2014 Evening\Exam12April2014Evening\5.BitRoller\bin\Debug\5.BitRoller.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\06.C# Basics Exam 12 April 2014 Evening\Exam12April2014Evening\5.BitRoller\bin\Debug\5.BitRoller.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\06.C# Basics Exam 12 April 2014 Evening\Exam12April2014Evening\5.BitRoller\bin\Debug\5.BitRoller.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\06.C# Basics Exam 12 April 2014 Evening\Exam12April2014Evening\5.BitRoller\obj\Debug\5.BitRoller.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Exam preparation\06.C# Basics Exam 12 April 2014 Evening\Exam12April2014Evening\5.BitRoller\obj\Debug\5.BitRoller.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\06.C# Basics Exam 12 April 2014 Evening\Exam12April2014Evening\5.BitRoller\obj\Debug\5.BitRoller.pdb

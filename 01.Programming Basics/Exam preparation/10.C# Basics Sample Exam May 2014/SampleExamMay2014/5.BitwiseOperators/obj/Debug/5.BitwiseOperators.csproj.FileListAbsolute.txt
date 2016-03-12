@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\5.BitwiseOperators\bin\Debug\5.BitwiseOperators.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\5.BitwiseOperators\bin\Debug\5.BitwiseOperators.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\5.BitwiseOperators\bin\Debug\5.BitwiseOperators.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\5.BitwiseOperators\obj\Debug\5.BitwiseOperators.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\5.BitwiseOperators\obj\Debug\5.BitwiseOperators.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\5.BitwiseOperators\obj\Debug\5.BitwiseOperators.pdb

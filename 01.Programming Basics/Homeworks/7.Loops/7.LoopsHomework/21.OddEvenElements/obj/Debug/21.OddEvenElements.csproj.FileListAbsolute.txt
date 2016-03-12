@@ -1,5 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\21.OddEvenElements\bin\Debug\21.OddEvenElements.exe.config
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\21.OddEvenElements\bin\Debug\21.OddEvenElements.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\21.OddEvenElements\bin\Debug\21.OddEvenElements.pdb
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\21.OddEvenElements\obj\Debug\21.OddEvenElements.exe
-D:\Softuni Rules\01.Programming Basics\Homeworks\7.Loops\7.LoopsHomework\21.OddEvenElements\obj\Debug\21.OddEvenElements.pdb

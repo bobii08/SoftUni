@@ -1,6 +1,0 @@
-D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\2.SimpleLoops\bin\Debug\2.SimpleLoops.exe.config
-D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\2.SimpleLoops\bin\Debug\2.SimpleLoops.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\2.SimpleLoops\bin\Debug\2.SimpleLoops.pdb
-D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\2.SimpleLoops\obj\Debug\2.SimpleLoops.csprojResolveAssemblyReference.cache
-D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\2.SimpleLoops\obj\Debug\2.SimpleLoops.exe
-D:\Softuni Rules\01.Programming Basics\Exam preparation\09.C# Basics Sample Exam May 2014\SampleExamMay2014\2.SimpleLoops\obj\Debug\2.SimpleLoops.pdb

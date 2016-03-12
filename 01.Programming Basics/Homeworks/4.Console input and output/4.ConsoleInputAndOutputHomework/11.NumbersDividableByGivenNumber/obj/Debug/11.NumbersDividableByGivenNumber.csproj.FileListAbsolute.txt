@@ -1,5 +1,0 @@
-D:\Softuni Rules\Programming Basics\Homeworks\4.Console input and output\4.ConsoleInputAndOutputHomework\11.NumbersDividableByGivenNumber\bin\Debug\11.NumbersDividableByGivenNumber.exe.config
-D:\Softuni Rules\Programming Basics\Homeworks\4.Console input and output\4.ConsoleInputAndOutputHomework\11.NumbersDividableByGivenNumber\bin\Debug\11.NumbersDividableByGivenNumber.exe
-D:\Softuni Rules\Programming Basics\Homeworks\4.Console input and output\4.ConsoleInputAndOutputHomework\11.NumbersDividableByGivenNumber\bin\Debug\11.NumbersDividableByGivenNumber.pdb
-D:\Softuni Rules\Programming Basics\Homeworks\4.Console input and output\4.ConsoleInputAndOutputHomework\11.NumbersDividableByGivenNumber\obj\Debug\11.NumbersDividableByGivenNumber.exe
-D:\Softuni Rules\Programming Basics\Homeworks\4.Console input and output\4.ConsoleInputAndOutputHomework\11.NumbersDividableByGivenNumber\obj\Debug\11.NumbersDividableByGivenNumber.pdb
