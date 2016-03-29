@@ -1,0 +1,16 @@
+1 This document defines the homework assignments from the "Advanced C#" Course @ Software University. Please
+2 submit as homework a single zip / rar / 7z archive holding the solutions (source code) of all below described
+3 problems. The solutionsThis document defines the homework assignments from the "Advanced C#" Course @ Software
+4 University. Please "Advanced C#" Course @ Software "Advanced C#" Course @ Software "Advanced C#" Course @ Software
+5 submit as homework a single zip / rar / 7z archive holding the solutions (source code) of all below described
+6 problems. The solutions "Advanced C#" Course @ Software"Advanced C#" Course @ Software"Advanced C#" Course @ Software
+7 should be written in C#. "Advanced C#" Course @ Software"Advanced C#" Course @ Software"Advanced C#" Course @ Software
+8 should be written in C#."Advanced C#" Course @ Software"Advanced C#" Course @ Software
+9 This document defines the homework assignments from the "Advanced C#" Course @ Software University. Please
+10 submit as homework a single zip / rar / 7z archive holding the solutions (source code) of all below described
+11 problems. The solutionsThis document defines the homework assignments from the "Advanced C#" Course @ Software
+12 University. Please "Advanced C#" Course @ Software "Advanced C#" Course @ Software "Advanced C#" Course @ Software
+13 submit as homework a single zip / rar / 7z archive holding the solutions (source code) of all below described
+14 problems. The solutions "Advanced C#" Course @ Software"Advanced C#" Course @ Software"Advanced C#" Course @ Software
+15 should be written in C#. "Advanced C#" Course @ Software"Advanced C#" Course @ Software"Advanced C#" Course @ Software
+16 should be written in C#."Advanced C#" Course @ Software"Advanced C#" Course @ Software
