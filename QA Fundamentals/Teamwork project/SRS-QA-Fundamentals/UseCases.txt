@@ -1,0 +1,15 @@
+1.Register - guest
+2.Login - admin,user
+3.Change password - admin,user
+4.Add products to system - admin
+5.Update product - admin
+6.Delete product - admin
+7.Add product to basket - user
+8.Remove product from basket - user
+9.Search products - admin,user
+10.Verify CreditCard - user
+11.Verify DeliveryInformation - user
+12.Block/delete user - admin
+13.Submit order - user
+14.Rate product - user
+15.Cancel order - user

@@ -1,0 +1,42 @@
+Use case 1	Search catalog
+Description	User can search the e-catalog
+Primary Actor	User
+Pre Condition	None
+Main scenario	1.User opens a web browser, gives the URL for the ‘Pet shope’ and clicks on ‘Enter’ button.
+		2. System launches the web site.
+		3. User enters text in text box next to Search button and clicks on Search button
+		4. System displays the matching text products
+	
+Use case 2	Update Database
+Description	How the administrator of the system can add and delete items from the catalog and also manage the system users
+Primary Actor	Administrator
+Pre Condition	logged in
+Main scenario	1. The system prompts the user to select one of the following two options:
+			 -Manage Catalog 
+		         -Manage Users
+		1.1Manage catalog
+		-add new product/image
+		-add new Item
+		-edit product/item
+		-delete product that are not available at the moment
+		-delete item
+		-analize the informacion for productes
+		1.2Manage Users
+		-add new users
+		-block users
+		-analize the informacion for useres
+
+	
+Use case 3	Shopping Cart
+Description	how can modify items in the shopping cart
+Primary Actor	User
+Pre Condition	logged in
+Main scenario	1. add to the cart and clicks on the “Add to Cart” link.
+		2. Cart Screen -old item and newly added item.
+		3. total cost of the shopping cart.
+		4. repeats steps 2 and 3 for all the items he wants to add to the cart.
+		5. modifies the item quantity for one or multiple items and clicks “Update Cart”.
+		6. updates the new quantity and displays the modified line item totals and subtotal to the user.
+		7. clicks the “Remove” link to remove any of the items in the cart.
+		8. deletes the item from the cart and adjusts the sub-total accordingly.
+		
